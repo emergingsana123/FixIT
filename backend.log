@@ -1,0 +1,1101 @@
+INFO:     Will watch for changes in these directories: ['/Users/aaryamanbajaj/Documents/live-3d']
+INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+INFO:     Started reloader process [29210] using StatReload
+INFO:     Started server process [29255]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     127.0.0.1:56789 - "WebSocket /ws/client_1762663150593" [accepted]
+INFO:     connection open
+INFO:     127.0.0.1:56791 - "WebSocket /ws/client_1762663166367" [accepted]
+INFO:     connection open
+INFO:     127.0.0.1:56793 - "WebSocket /ws/client_1762663160630" [accepted]
+INFO:     connection open
+INFO:     127.0.0.1:56795 - "WebSocket /ws/client_1762663160630" [accepted]
+INFO:     connection open
+INFO:     127.0.0.1:56797 - "WebSocket /ws/client_1762663166367" [accepted]
+INFO:     connection open
+INFO:     127.0.0.1:56799 - "WebSocket /ws/client_1762664623552" [accepted]
+INFO:     connection open
+INFO:     127.0.0.1:56801 - "WebSocket /ws/client_1762663150593" [accepted]
+INFO:     connection open
+INFO:     127.0.0.1:56803 - "WebSocket /ws/client_1762663324649" [accepted]
+INFO:     connection open
+INFO:     127.0.0.1:56806 - "WebSocket /ws/client_1762664623552" [accepted]
+INFO:     connection open
+INFO:     127.0.0.1:56809 - "WebSocket /ws/client_1762663324649" [accepted]
+INFO:     connection open
+INFO:     connection closed
+INFO:     connection closed
+INFO:     127.0.0.1:56840 - "WebSocket /ws/client_1762664712055" [accepted]
+INFO:     connection open
+INFO:     127.0.0.1:56842 - "WebSocket /ws/client_1762664712055" [accepted]
+INFO:     connection open
+INFO:     WebSocket client connected: client_1762663150593
+INFO:     WebSocket client connected: client_1762663166367
+INFO:     WebSocket client connected: client_1762663160630
+INFO:     WebSocket client connected: client_1762663160630
+INFO:     WebSocket client connected: client_1762663166367
+INFO:     WebSocket client connected: client_1762664623552
+INFO:     WebSocket client connected: client_1762663150593
+INFO:     WebSocket client connected: client_1762663324649
+INFO:     WebSocket client connected: client_1762664623552
+INFO:     WebSocket client connected: client_1762663324649
+INFO:     WebSocket client disconnected: client_1762663324649 (code: 1001)
+INFO:     WebSocket cleanup completed for client_1762663324649
+INFO:     WebSocket client disconnected: client_1762663324649 (code: 1001)
+INFO:     WebSocket cleanup completed for client_1762663324649
+INFO:     WebSocket client connected: client_1762664712055
+INFO:     WebSocket client connected: client_1762664712055
+INFO:     127.0.0.1:56847 - "POST /upload-video HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56847 - "POST /reconstruct/157bf4c4-5d8f-46e4-afc0-8833fc7779e2 HTTP/1.1" 200 OK
+INFO:     connection closed
+INFO:     connection closed
+INFO:     connection closed
+INFO:     connection closed
+INFO:     connection closed
+INFO:     connection closed
+INFO:     connection closed
+INFO:     connection closed
+INFO:     connection closed
+INFO:     connection closed
+INFO:     127.0.0.1:56895 - "WebSocket /ws/client_1762664712055" [accepted]
+INFO:     connection open
+INFO:     127.0.0.1:56898 - "WebSocket /ws/client_1762664712055" [accepted]
+INFO:     connection open
+INFO:     127.0.0.1:56901 - "WebSocket /ws/client_1762663166367" [accepted]
+INFO:     connection open
+INFO:     127.0.0.1:56903 - "WebSocket /ws/client_1762664623552" [accepted]
+INFO:     connection open
+INFO:     127.0.0.1:56905 - "WebSocket /ws/client_1762663150593" [accepted]
+INFO:     connection open
+INFO:     127.0.0.1:56907 - "WebSocket /ws/client_1762663160630" [accepted]
+INFO:     connection open
+INFO:     127.0.0.1:56909 - "WebSocket /ws/client_1762663166367" [accepted]
+INFO:     connection open
+INFO:     127.0.0.1:56911 - "WebSocket /ws/client_1762664623552" [accepted]
+INFO:     connection open
+INFO:     127.0.0.1:56913 - "WebSocket /ws/client_1762663150593" [accepted]
+INFO:     connection open
+INFO:     127.0.0.1:56914 - "WebSocket /ws/client_1762663160630" [accepted]
+INFO:     connection open
+INFO:     connection closed
+INFO:     connection closed
+INFO:     127.0.0.1:56989 - "WebSocket /ws/client_1762665463534" [accepted]
+INFO:     connection open
+INFO:     127.0.0.1:56991 - "WebSocket /ws/client_1762665463534" [accepted]
+INFO:     connection open
+INFO:     WebSocket client disconnected: client_1762664712055 (code: 1006)
+INFO:     WebSocket cleanup completed for client_1762664712055
+INFO:     WebSocket client disconnected: client_1762664623552 (code: 1006)
+INFO:     WebSocket cleanup completed for client_1762664623552
+INFO:     WebSocket client disconnected: client_1762663160630 (code: 1006)
+INFO:     WebSocket cleanup completed for client_1762663160630
+INFO:     WebSocket client disconnected: client_1762664623552 (code: 1006)
+INFO:     WebSocket cleanup completed for client_1762664623552
+INFO:     WebSocket client disconnected: client_1762663160630 (code: 1006)
+INFO:     WebSocket cleanup completed for client_1762663160630
+INFO:     WebSocket client disconnected: client_1762663150593 (code: 1006)
+INFO:     WebSocket cleanup completed for client_1762663150593
+INFO:     WebSocket client disconnected: client_1762663166367 (code: 1006)
+INFO:     WebSocket cleanup completed for client_1762663166367
+INFO:     WebSocket client disconnected: client_1762663150593 (code: 1006)
+INFO:     WebSocket cleanup completed for client_1762663150593
+INFO:     WebSocket client disconnected: client_1762664712055 (code: 1006)
+INFO:     WebSocket cleanup completed for client_1762664712055
+INFO:     WebSocket client disconnected: client_1762663166367 (code: 1006)
+INFO:     WebSocket cleanup completed for client_1762663166367
+INFO:     WebSocket client connected: client_1762664712055
+INFO:     WebSocket client connected: client_1762664712055
+INFO:     WebSocket client connected: client_1762663166367
+INFO:     WebSocket client connected: client_1762664623552
+INFO:     WebSocket client connected: client_1762663150593
+INFO:     WebSocket client connected: client_1762663160630
+INFO:     WebSocket client connected: client_1762663166367
+INFO:     WebSocket client connected: client_1762664623552
+INFO:     WebSocket client connected: client_1762663150593
+INFO:     WebSocket client connected: client_1762663160630
+INFO:     WebSocket client disconnected: client_1762664712055 (code: 1001)
+INFO:     WebSocket cleanup completed for client_1762664712055
+INFO:     WebSocket client disconnected: client_1762664712055 (code: 1001)
+INFO:     WebSocket cleanup completed for client_1762664712055
+INFO:     WebSocket client connected: client_1762665463534
+INFO:     WebSocket client connected: client_1762665463534
+INFO:     127.0.0.1:56993 - "POST /upload-video HTTP/1.1" 200 OK
+Reconstruction failed, using fallback: Connection error.
+INFO:     127.0.0.1:56993 - "POST /reconstruct/fa6a0edb-b988-4dd9-ac50-761ea17646eb HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57079 - "WebSocket /ws/client_1762665517987" [accepted]
+INFO:     connection open
+INFO:     127.0.0.1:57081 - "WebSocket /ws/client_1762665517987" [accepted]
+INFO:     connection open
+INFO:     WebSocket client connected: client_1762665517987
+INFO:     WebSocket client connected: client_1762665517987
+INFO:     127.0.0.1:57095 - "POST /upload-video HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57095 - "POST /reconstruct/b3772be2-231f-4d45-832d-dc8157bd6e97 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57095 - "GET /models/bottle_small.glb HTTP/1.1" 304 Not Modified
+INFO:     10.28.83.209:57104 - "OPTIONS /detect-bottle HTTP/1.1" 200 OK
+INFO:     10.28.83.209:57104 - "POST /detect-bottle HTTP/1.1" 200 OK
+INFO:     10.28.83.209:57104 - "POST /detect-bottle HTTP/1.1" 200 OK
+INFO:     10.28.83.209:57110 - "POST /detect-bottle HTTP/1.1" 200 OK
+INFO:     10.28.83.209:57112 - "POST /detect-bottle HTTP/1.1" 200 OK
+INFO:     10.28.83.209:57104 - "POST /detect-bottle HTTP/1.1" 200 OK
+INFO:     10.28.83.209:57110 - "POST /detect-bottle HTTP/1.1" 200 OK
+INFO:     10.28.83.209:57112 - "POST /detect-bottle HTTP/1.1" 200 OK
+INFO:     10.28.83.209:57110 - "POST /detect-bottle HTTP/1.1" 200 OK
+INFO:     10.28.83.209:57117 - "POST /detect-bottle HTTP/1.1" 200 OK
+INFO:     10.28.83.209:57112 - "POST /detect-bottle HTTP/1.1" 200 OK
+INFO:     10.28.83.209:57110 - "POST /detect-bottle HTTP/1.1" 200 OK
+INFO:     10.28.83.209:57117 - "POST /detect-bottle HTTP/1.1" 200 OK
+INFO:     10.28.83.209:57110 - "POST /detect-bottle HTTP/1.1" 200 OK
+INFO:     10.28.83.209:57124 - "POST /detect-bottle HTTP/1.1" 200 OK
+INFO:     10.28.83.209:57110 - "POST /detect-bottle HTTP/1.1" 200 OK
+INFO:     10.28.83.209:57124 - "POST /detect-bottle HTTP/1.1" 200 OK
+INFO:     10.28.83.209:57110 - "POST /detect-bottle HTTP/1.1" 200 OK
+INFO:     10.28.83.209:57124 - "POST /detect-bottle HTTP/1.1" 200 OK
+INFO:     10.28.83.209:57110 - "POST /detect-bottle HTTP/1.1" 200 OK
+INFO:     10.28.83.209:57124 - "POST /detect-bottle HTTP/1.1" 200 OK
+INFO:     10.28.83.209:57110 - "POST /detect-bottle HTTP/1.1" 200 OK
+INFO:     10.28.83.209:57124 - "POST /detect-bottle HTTP/1.1" 200 OK
+INFO:     10.28.83.209:57124 - "POST /detect-bottle HTTP/1.1" 200 OK
+INFO:     10.28.83.209:57124 - "POST /detect-bottle HTTP/1.1" 200 OK
+INFO:     10.28.83.209:57124 - "POST /detect-bottle HTTP/1.1" 200 OK
+INFO:     10.28.83.209:57124 - "POST /detect-bottle HTTP/1.1" 200 OK
+INFO:     10.28.83.209:57135 - "POST /detect-bottle HTTP/1.1" 200 OK
+INFO:     10.28.83.209:57136 - "POST /detect-bottle HTTP/1.1" 200 OK
+INFO:     10.28.83.209:57136 - "POST /detect-bottle HTTP/1.1" 200 OK
+INFO:     10.28.83.209:57138 - "POST /detect-bottle HTTP/1.1" 200 OK
+INFO:     10.28.83.209:57136 - "POST /detect-bottle HTTP/1.1" 200 OK
+INFO:     10.28.83.209:57138 - "POST /detect-bottle HTTP/1.1" 200 OK
+INFO:     10.28.83.209:57140 - "POST /detect-bottle HTTP/1.1" 200 OK
+INFO:     10.28.83.209:57138 - "POST /detect-bottle HTTP/1.1" 200 OK
+INFO:     10.28.83.209:57140 - "POST /detect-bottle HTTP/1.1" 200 OK
+INFO:     10.28.83.209:57138 - "POST /detect-bottle HTTP/1.1" 200 OK
+INFO:     10.28.83.209:57140 - "POST /detect-bottle HTTP/1.1" 200 OK
+INFO:     10.28.83.209:57147 - "POST /detect-bottle HTTP/1.1" 200 OK
+INFO:     10.28.83.209:57140 - "POST /detect-bottle HTTP/1.1" 200 OK
+INFO:     WebSocket client disconnected: client_1762665463534 (code: 1001)
+INFO:     WebSocket cleanup completed for client_1762665463534
+INFO:     WebSocket client disconnected: client_1762665517987 (code: 1001)
+INFO:     WebSocket cleanup completed for client_1762665517987
+INFO:     WebSocket client disconnected: client_1762665463534 (code: 1001)
+INFO:     WebSocket cleanup completed for client_1762665463534
+INFO:     WebSocket client disconnected: client_1762665517987 (code: 1001)
+INFO:     WebSocket cleanup completed for client_1762665517987
+INFO:     10.28.83.209:57148 - "POST /detect-bottle HTTP/1.1" 200 OK
+INFO:     connection closed
+INFO:     connection closed
+INFO:     connection closed
+INFO:     connection closed
+INFO:     127.0.0.1:57331 - "POST /upload-video HTTP/1.1" 200 OK
+INFO:     connection closed
+INFO:     connection closed
+INFO:     127.0.0.1:57344 - "WebSocket /ws/client_1762665962219" [accepted]
+INFO:     connection open
+INFO:     127.0.0.1:57346 - "WebSocket /ws/client_1762665962219" [accepted]
+INFO:     connection open
+INFO:     WebSocket client disconnected: client_1762663166367 (code: 1001)
+INFO:     WebSocket cleanup completed for client_1762663166367
+INFO:     WebSocket client disconnected: client_1762663166367 (code: 1001)
+INFO:     WebSocket cleanup completed for client_1762663166367
+INFO:     WebSocket client connected: client_1762665962219
+INFO:     WebSocket client connected: client_1762665962219
+INFO:     127.0.0.1:57348 - "POST /upload-video HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57348 - "POST /reconstruct/ce212b9c-9ba6-459a-b7f1-2071c7edae22 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57348 - "GET /models/bottle_small.glb HTTP/1.1" 304 Not Modified
+INFO:     connection closed
+INFO:     connection closed
+INFO:     connection closed
+INFO:     connection closed
+INFO:     connection closed
+INFO:     connection closed
+INFO:     connection closed
+INFO:     connection closed
+INFO:     127.0.0.1:57745 - "WebSocket /ws/client_1762663150593" [accepted]
+INFO:     connection open
+INFO:     127.0.0.1:57748 - "WebSocket /ws/client_1762664623552" [accepted]
+INFO:     connection open
+INFO:     127.0.0.1:57750 - "WebSocket /ws/client_1762663160630" [accepted]
+INFO:     connection open
+INFO:     127.0.0.1:57751 - "WebSocket /ws/client_1762663160630" [accepted]
+INFO:     connection open
+INFO:     127.0.0.1:57754 - "WebSocket /ws/client_1762663150593" [accepted]
+INFO:     connection open
+INFO:     127.0.0.1:57756 - "WebSocket /ws/client_1762664623552" [accepted]
+INFO:     connection open
+INFO:     127.0.0.1:57946 - "WebSocket /ws/client_1762666864561" [accepted]
+INFO:     connection open
+INFO:     127.0.0.1:57948 - "WebSocket /ws/client_1762666864561" [accepted]
+INFO:     connection open
+INFO:     WebSocket client disconnected: client_1762665962219 (code: 1001)
+INFO:     WebSocket cleanup completed for client_1762665962219
+INFO:     WebSocket client disconnected: client_1762665962219 (code: 1001)
+INFO:     WebSocket cleanup completed for client_1762665962219
+INFO:     WebSocket client disconnected: client_1762663160630 (code: 1006)
+INFO:     WebSocket cleanup completed for client_1762663160630
+INFO:     WebSocket client disconnected: client_1762663150593 (code: 1006)
+INFO:     WebSocket cleanup completed for client_1762663150593
+INFO:     WebSocket client disconnected: client_1762664623552 (code: 1006)
+INFO:     WebSocket cleanup completed for client_1762664623552
+INFO:     WebSocket client disconnected: client_1762663160630 (code: 1006)
+INFO:     WebSocket cleanup completed for client_1762663160630
+INFO:     WebSocket client disconnected: client_1762663150593 (code: 1006)
+INFO:     WebSocket cleanup completed for client_1762663150593
+INFO:     WebSocket client disconnected: client_1762664623552 (code: 1006)
+INFO:     WebSocket cleanup completed for client_1762664623552
+INFO:     WebSocket client connected: client_1762663150593
+INFO:     WebSocket client connected: client_1762664623552
+INFO:     WebSocket client connected: client_1762663160630
+INFO:     WebSocket client connected: client_1762663160630
+INFO:     WebSocket client connected: client_1762663150593
+INFO:     WebSocket client connected: client_1762664623552
+INFO:     WebSocket client connected: client_1762666864561
+INFO:     WebSocket client connected: client_1762666864561
+INFO:     127.0.0.1:57951 - "POST /upload-video HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57951 - "POST /reconstruct/475369a7-bab2-4c4d-950a-566ce1e73471 HTTP/1.1" 200 OK
+INFO:     connection closed
+INFO:     connection closed
+INFO:     WebSocket client disconnected: client_1762666864561 (code: 1001)
+INFO:     WebSocket cleanup completed for client_1762666864561
+INFO:     WebSocket client disconnected: client_1762666864561 (code: 1001)
+INFO:     WebSocket cleanup completed for client_1762666864561
+INFO:     127.0.0.1:58032 - "GET /health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58045 - "POST /analyze HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58061 - "POST /analyze HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58166 - "WebSocket /ws/client_1762667278382" [accepted]
+INFO:     connection open
+INFO:     127.0.0.1:58168 - "WebSocket /ws/client_1762667278382" [accepted]
+INFO:     connection open
+INFO:     WebSocket client connected: client_1762667278382
+INFO:     WebSocket client connected: client_1762667278382
+INFO:     127.0.0.1:58172 - "POST /upload-video HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58172 - "POST /reconstruct/1147c19e-dffe-4467-83dc-9143ddb1e117 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58172 - "GET /models/bottle_small.glb HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:58172 - "GET /models/bottle_small.glb HTTP/1.1" 206 Partial Content
+INFO:     10.28.83.209:58189 - "OPTIONS /analyze HTTP/1.1" 200 OK
+INFO:     10.28.83.209:58189 - "POST /analyze HTTP/1.1" 200 OK
+INFO:     10.28.83.209:58207 - "POST /analyze HTTP/1.1" 200 OK
+INFO:     10.28.83.209:58209 - "POST /analyze HTTP/1.1" 200 OK
+INFO:     connection closed
+INFO:     connection closed
+WARNING:  StatReload detected changes in 'backend/agents/advanced_medical_agent.py'. Reloading...
+INFO:     Shutting down
+INFO:     connection closed
+INFO:     connection closed
+INFO:     connection closed
+INFO:     connection closed
+INFO:     connection closed
+INFO:     connection closed
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [29255]
+INFO:     Started server process [32711]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     127.0.0.1:58561 - "WebSocket /ws/client_1762663150593" [accepted]
+INFO:     connection open
+INFO:     127.0.0.1:58563 - "WebSocket /ws/client_1762663150593" [accepted]
+INFO:     connection open
+INFO:     127.0.0.1:58565 - "WebSocket /ws/client_1762663160630" [accepted]
+INFO:     connection open
+INFO:     127.0.0.1:58567 - "WebSocket /ws/client_1762663160630" [accepted]
+INFO:     connection open
+INFO:     127.0.0.1:58570 - "WebSocket /ws/client_1762664623552" [accepted]
+INFO:     connection open
+INFO:     127.0.0.1:58571 - "WebSocket /ws/client_1762664623552" [accepted]
+INFO:     connection open
+WARNING:  StatReload detected changes in 'backend/api/server.py'. Reloading...
+INFO:     Shutting down
+INFO:     connection closed
+INFO:     connection closed
+INFO:     connection closed
+INFO:     connection closed
+INFO:     connection closed
+INFO:     connection closed
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [32711]
+Process SpawnProcess-3:
+Traceback (most recent call last):
+  File "/opt/homebrew/Cellar/python@3.11/3.11.14_1/Frameworks/Python.framework/Versions/3.11/lib/python3.11/multiprocessing/process.py", line 314, in _bootstrap
+    self.run()
+  File "/opt/homebrew/Cellar/python@3.11/3.11.14_1/Frameworks/Python.framework/Versions/3.11/lib/python3.11/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/Users/aaryamanbajaj/Documents/live-3d/venv/lib/python3.11/site-packages/uvicorn/_subprocess.py", line 80, in subprocess_started
+    target(sockets=sockets)
+  File "/Users/aaryamanbajaj/Documents/live-3d/venv/lib/python3.11/site-packages/uvicorn/server.py", line 67, in run
+    return asyncio_run(self.serve(sockets=sockets), loop_factory=self.config.get_loop_factory())
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/aaryamanbajaj/Documents/live-3d/venv/lib/python3.11/site-packages/uvicorn/_compat.py", line 30, in asyncio_run
+    return runner.run(main)
+           ^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/Cellar/python@3.11/3.11.14_1/Frameworks/Python.framework/Versions/3.11/lib/python3.11/asyncio/runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/Cellar/python@3.11/3.11.14_1/Frameworks/Python.framework/Versions/3.11/lib/python3.11/asyncio/base_events.py", line 654, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+  File "/Users/aaryamanbajaj/Documents/live-3d/venv/lib/python3.11/site-packages/uvicorn/server.py", line 71, in serve
+    await self._serve(sockets)
+  File "/Users/aaryamanbajaj/Documents/live-3d/venv/lib/python3.11/site-packages/uvicorn/server.py", line 78, in _serve
+    config.load()
+  File "/Users/aaryamanbajaj/Documents/live-3d/venv/lib/python3.11/site-packages/uvicorn/config.py", line 439, in load
+    self.loaded_app = import_from_string(self.app)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/aaryamanbajaj/Documents/live-3d/venv/lib/python3.11/site-packages/uvicorn/importer.py", line 19, in import_from_string
+    module = importlib.import_module(module_str)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/Cellar/python@3.11/3.11.14_1/Frameworks/Python.framework/Versions/3.11/lib/python3.11/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<frozen importlib._bootstrap>", line 1204, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1176, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1147, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 690, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 940, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/Users/aaryamanbajaj/Documents/live-3d/backend/api/server.py", line 28, in <module>
+    medical_agent = MedicalAnalysisAgent()
+                    ^^^^^^^^^^^^^^^^^^^^
+NameError: name 'MedicalAnalysisAgent' is not defined
+WARNING:  StatReload detected changes in 'backend/api/server.py'. Reloading...
+INFO:     Started server process [33262]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     127.0.0.1:58960 - "WebSocket /ws/client_1762663160630" [accepted]
+INFO:     connection open
+INFO:     127.0.0.1:58962 - "WebSocket /ws/client_1762663160630" [accepted]
+INFO:     connection open
+INFO:     127.0.0.1:58964 - "WebSocket /ws/client_1762664623552" [accepted]
+INFO:     connection open
+INFO:     127.0.0.1:58966 - "WebSocket /ws/client_1762663150593" [accepted]
+INFO:     connection open
+INFO:     127.0.0.1:58968 - "WebSocket /ws/client_1762664623552" [accepted]
+INFO:     connection open
+INFO:     127.0.0.1:58970 - "WebSocket /ws/client_1762663150593" [accepted]
+INFO:     connection open
+WARNING:  StatReload detected changes in 'backend/api/server.py'. Reloading...
+INFO:     Shutting down
+INFO:     connection closed
+INFO:     connection closed
+INFO:     connection closed
+INFO:     connection closed
+INFO:     connection closed
+INFO:     connection closed
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [33262]
+INFO:     Started server process [33513]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     127.0.0.1:59084 - "WebSocket /ws/client_1762663150593" [accepted]
+INFO:     connection open
+INFO:     127.0.0.1:59086 - "WebSocket /ws/client_1762663160630" [accepted]
+INFO:     connection open
+INFO:     127.0.0.1:59088 - "WebSocket /ws/client_1762663150593" [accepted]
+INFO:     connection open
+INFO:     127.0.0.1:59090 - "WebSocket /ws/client_1762664623552" [accepted]
+INFO:     connection open
+INFO:     127.0.0.1:59092 - "WebSocket /ws/client_1762664623552" [accepted]
+INFO:     connection open
+INFO:     127.0.0.1:59094 - "WebSocket /ws/client_1762663160630" [accepted]
+INFO:     connection open
+INFO:     WebSocket client connected: client_1762663150593
+INFO:     WebSocket client connected: client_1762663160630
+INFO:     WebSocket client connected: client_1762663150593
+INFO:     WebSocket client connected: client_1762664623552
+INFO:     WebSocket client connected: client_1762664623552
+INFO:     WebSocket client connected: client_1762663160630
+INFO:     127.0.0.1:59476 - "POST /suggest-entry-point HTTP/1.1" 500 Internal Server Error
+ERROR:    Exception in ASGI application
+Traceback (most recent call last):
+  File "/Users/aaryamanbajaj/Documents/live-3d/venv/lib/python3.11/site-packages/uvicorn/protocols/http/h11_impl.py", line 403, in run_asgi
+    result = await app(  # type: ignore[func-returns-value]
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/aaryamanbajaj/Documents/live-3d/venv/lib/python3.11/site-packages/uvicorn/middleware/proxy_headers.py", line 60, in __call__
+    return await self.app(scope, receive, send)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/aaryamanbajaj/Documents/live-3d/venv/lib/python3.11/site-packages/fastapi/applications.py", line 1134, in __call__
+    await super().__call__(scope, receive, send)
+  File "/Users/aaryamanbajaj/Documents/live-3d/venv/lib/python3.11/site-packages/starlette/applications.py", line 113, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/Users/aaryamanbajaj/Documents/live-3d/venv/lib/python3.11/site-packages/starlette/middleware/errors.py", line 186, in __call__
+    raise exc
+  File "/Users/aaryamanbajaj/Documents/live-3d/venv/lib/python3.11/site-packages/starlette/middleware/errors.py", line 164, in __call__
+    await self.app(scope, receive, _send)
+  File "/Users/aaryamanbajaj/Documents/live-3d/venv/lib/python3.11/site-packages/starlette/middleware/cors.py", line 85, in __call__
+    await self.app(scope, receive, send)
+  File "/Users/aaryamanbajaj/Documents/live-3d/venv/lib/python3.11/site-packages/starlette/middleware/exceptions.py", line 63, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "/Users/aaryamanbajaj/Documents/live-3d/venv/lib/python3.11/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "/Users/aaryamanbajaj/Documents/live-3d/venv/lib/python3.11/site-packages/starlette/_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "/Users/aaryamanbajaj/Documents/live-3d/venv/lib/python3.11/site-packages/fastapi/middleware/asyncexitstack.py", line 18, in __call__
+    await self.app(scope, receive, send)
+  File "/Users/aaryamanbajaj/Documents/live-3d/venv/lib/python3.11/site-packages/starlette/routing.py", line 716, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/Users/aaryamanbajaj/Documents/live-3d/venv/lib/python3.11/site-packages/starlette/routing.py", line 736, in app
+    await route.handle(scope, receive, send)
+  File "/Users/aaryamanbajaj/Documents/live-3d/venv/lib/python3.11/site-packages/starlette/routing.py", line 290, in handle
+    await self.app(scope, receive, send)
+  File "/Users/aaryamanbajaj/Documents/live-3d/venv/lib/python3.11/site-packages/fastapi/routing.py", line 125, in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+  File "/Users/aaryamanbajaj/Documents/live-3d/venv/lib/python3.11/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "/Users/aaryamanbajaj/Documents/live-3d/venv/lib/python3.11/site-packages/starlette/_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "/Users/aaryamanbajaj/Documents/live-3d/venv/lib/python3.11/site-packages/fastapi/routing.py", line 111, in app
+    response = await f(request)
+               ^^^^^^^^^^^^^^^^
+  File "/Users/aaryamanbajaj/Documents/live-3d/venv/lib/python3.11/site-packages/fastapi/routing.py", line 391, in app
+    raw_response = await run_endpoint_function(
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/aaryamanbajaj/Documents/live-3d/venv/lib/python3.11/site-packages/fastapi/routing.py", line 290, in run_endpoint_function
+    return await dependant.call(**values)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/aaryamanbajaj/Documents/live-3d/backend/api/server.py", line 103, in suggest_entry_point
+    result = await medical_agent.get_optimal_entry_point(
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'AdvancedMedicalAgent' object has no attribute 'get_optimal_entry_point'
+WARNING:  StatReload detected changes in 'backend/api/server.py'. Reloading...
+INFO:     Shutting down
+INFO:     connection closed
+INFO:     connection closed
+INFO:     connection closed
+INFO:     connection closed
+INFO:     connection closed
+INFO:     connection closed
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [33513]
+INFO:     Started server process [34419]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     127.0.0.1:59505 - "WebSocket /ws/client_1762664623552" [accepted]
+INFO:     connection open
+INFO:     127.0.0.1:59507 - "WebSocket /ws/client_1762663160630" [accepted]
+INFO:     connection open
+INFO:     127.0.0.1:59509 - "WebSocket /ws/client_1762663150593" [accepted]
+INFO:     connection open
+INFO:     127.0.0.1:59511 - "WebSocket /ws/client_1762663160630" [accepted]
+INFO:     connection open
+INFO:     127.0.0.1:59513 - "WebSocket /ws/client_1762664623552" [accepted]
+INFO:     connection open
+INFO:     127.0.0.1:59515 - "WebSocket /ws/client_1762663150593" [accepted]
+INFO:     connection open
+INFO:     WebSocket client connected: client_1762664623552
+INFO:     WebSocket client connected: client_1762663160630
+INFO:     WebSocket client connected: client_1762663150593
+INFO:     WebSocket client connected: client_1762663160630
+INFO:     WebSocket client connected: client_1762664623552
+INFO:     WebSocket client connected: client_1762663150593
+INFO:     127.0.0.1:59527 - "POST /suggest-entry-point HTTP/1.1" 500 Internal Server Error
+ERROR:    Exception in ASGI application
+Traceback (most recent call last):
+  File "/Users/aaryamanbajaj/Documents/live-3d/venv/lib/python3.11/site-packages/uvicorn/protocols/http/h11_impl.py", line 403, in run_asgi
+    result = await app(  # type: ignore[func-returns-value]
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/aaryamanbajaj/Documents/live-3d/venv/lib/python3.11/site-packages/uvicorn/middleware/proxy_headers.py", line 60, in __call__
+    return await self.app(scope, receive, send)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/aaryamanbajaj/Documents/live-3d/venv/lib/python3.11/site-packages/fastapi/applications.py", line 1134, in __call__
+    await super().__call__(scope, receive, send)
+  File "/Users/aaryamanbajaj/Documents/live-3d/venv/lib/python3.11/site-packages/starlette/applications.py", line 113, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/Users/aaryamanbajaj/Documents/live-3d/venv/lib/python3.11/site-packages/starlette/middleware/errors.py", line 186, in __call__
+    raise exc
+  File "/Users/aaryamanbajaj/Documents/live-3d/venv/lib/python3.11/site-packages/starlette/middleware/errors.py", line 164, in __call__
+    await self.app(scope, receive, _send)
+  File "/Users/aaryamanbajaj/Documents/live-3d/venv/lib/python3.11/site-packages/starlette/middleware/cors.py", line 85, in __call__
+    await self.app(scope, receive, send)
+  File "/Users/aaryamanbajaj/Documents/live-3d/venv/lib/python3.11/site-packages/starlette/middleware/exceptions.py", line 63, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "/Users/aaryamanbajaj/Documents/live-3d/venv/lib/python3.11/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "/Users/aaryamanbajaj/Documents/live-3d/venv/lib/python3.11/site-packages/starlette/_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "/Users/aaryamanbajaj/Documents/live-3d/venv/lib/python3.11/site-packages/fastapi/middleware/asyncexitstack.py", line 18, in __call__
+    await self.app(scope, receive, send)
+  File "/Users/aaryamanbajaj/Documents/live-3d/venv/lib/python3.11/site-packages/starlette/routing.py", line 716, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/Users/aaryamanbajaj/Documents/live-3d/venv/lib/python3.11/site-packages/starlette/routing.py", line 736, in app
+    await route.handle(scope, receive, send)
+  File "/Users/aaryamanbajaj/Documents/live-3d/venv/lib/python3.11/site-packages/starlette/routing.py", line 290, in handle
+    await self.app(scope, receive, send)
+  File "/Users/aaryamanbajaj/Documents/live-3d/venv/lib/python3.11/site-packages/fastapi/routing.py", line 125, in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+  File "/Users/aaryamanbajaj/Documents/live-3d/venv/lib/python3.11/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "/Users/aaryamanbajaj/Documents/live-3d/venv/lib/python3.11/site-packages/starlette/_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "/Users/aaryamanbajaj/Documents/live-3d/venv/lib/python3.11/site-packages/fastapi/routing.py", line 111, in app
+    response = await f(request)
+               ^^^^^^^^^^^^^^^^
+  File "/Users/aaryamanbajaj/Documents/live-3d/venv/lib/python3.11/site-packages/fastapi/routing.py", line 391, in app
+    raw_response = await run_endpoint_function(
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/aaryamanbajaj/Documents/live-3d/venv/lib/python3.11/site-packages/fastapi/routing.py", line 290, in run_endpoint_function
+    return await dependant.call(**values)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/aaryamanbajaj/Documents/live-3d/backend/api/server.py", line 103, in suggest_entry_point
+    result = await medical_agent.suggest_optimal_entry_point(
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: AdvancedMedicalAgent.suggest_optimal_entry_point() got an unexpected keyword argument 'existing_annotations'
+WARNING:  StatReload detected changes in 'backend/api/server.py'. Reloading...
+INFO:     Shutting down
+INFO:     connection closed
+INFO:     connection closed
+INFO:     connection closed
+INFO:     connection closed
+INFO:     connection closed
+INFO:     connection closed
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [34419]
+INFO:     Started server process [34863]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     127.0.0.1:59543 - "WebSocket /ws/client_1762663150593" [accepted]
+INFO:     connection open
+INFO:     127.0.0.1:59545 - "WebSocket /ws/client_1762663150593" [accepted]
+INFO:     connection open
+INFO:     127.0.0.1:59547 - "WebSocket /ws/client_1762664623552" [accepted]
+INFO:     connection open
+INFO:     127.0.0.1:59549 - "WebSocket /ws/client_1762664623552" [accepted]
+INFO:     connection open
+INFO:     127.0.0.1:59551 - "WebSocket /ws/client_1762663160630" [accepted]
+INFO:     connection open
+INFO:     127.0.0.1:59553 - "WebSocket /ws/client_1762663160630" [accepted]
+INFO:     connection open
+INFO:     WebSocket client connected: client_1762663150593
+INFO:     WebSocket client connected: client_1762663150593
+INFO:     WebSocket client connected: client_1762664623552
+INFO:     WebSocket client connected: client_1762664623552
+INFO:     WebSocket client connected: client_1762663160630
+INFO:     WebSocket client connected: client_1762663160630
+⚠️ Entry point AI failed: Error code: 500 - {'detail': "Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-sonnet-4'}, 'request_id': 'req_011CUwsCCiV11jm6M6dWVoFR'}"}
+INFO:     127.0.0.1:59578 - "POST /suggest-entry-point HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59660 - "POST /analyze HTTP/1.1" 200 OK
+WARNING:  StatReload detected changes in 'backend/agents/advanced_medical_agent.py'. Reloading...
+INFO:     Shutting down
+INFO:     connection closed
+INFO:     connection closed
+INFO:     connection closed
+INFO:     connection closed
+INFO:     connection closed
+INFO:     connection closed
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [34863]
+INFO:     Started server process [35988]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+WARNING:  StatReload detected changes in 'backend/agents/advanced_medical_agent.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [35988]
+INFO:     Started server process [35990]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     127.0.0.1:59687 - "WebSocket /ws/client_1762663150593" [accepted]
+INFO:     connection open
+INFO:     127.0.0.1:59694 - "WebSocket /ws/client_1762664623552" [accepted]
+INFO:     connection open
+INFO:     127.0.0.1:59695 - "WebSocket /ws/client_1762663150593" [accepted]
+INFO:     connection open
+INFO:     127.0.0.1:59696 - "WebSocket /ws/client_1762664623552" [accepted]
+INFO:     connection open
+INFO:     127.0.0.1:59697 - "WebSocket /ws/client_1762663160630" [accepted]
+INFO:     connection open
+INFO:     127.0.0.1:59698 - "WebSocket /ws/client_1762663160630" [accepted]
+INFO:     connection open
+INFO:     WebSocket client connected: client_1762663150593
+INFO:     WebSocket client connected: client_1762664623552
+INFO:     WebSocket client connected: client_1762663150593
+INFO:     WebSocket client connected: client_1762664623552
+INFO:     WebSocket client connected: client_1762663160630
+INFO:     WebSocket client connected: client_1762663160630
+⚠️ Entry point AI failed: Error code: 500 - {'detail': "Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-sonnet-20241022'}, 'request_id': 'req_011CUwsfXDipUp1mD1chR4Sh'}"}
+INFO:     127.0.0.1:59742 - "POST /suggest-entry-point HTTP/1.1" 200 OK
+⚠️ Entry point AI failed: Error code: 500 - {'detail': "Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-sonnet-20241022'}, 'request_id': 'req_011CUwtbNBWaLkE5tJB3CLky'}"}
+INFO:     127.0.0.1:59935 - "POST /suggest-entry-point HTTP/1.1" 200 OK
+WARNING:  StatReload detected changes in 'backend/agents/advanced_medical_agent.py'. Reloading...
+INFO:     Shutting down
+INFO:     connection closed
+INFO:     connection closed
+INFO:     connection closed
+INFO:     connection closed
+INFO:     connection closed
+INFO:     connection closed
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [35990]
+INFO:     Started server process [37209]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     127.0.0.1:59979 - "WebSocket /ws/client_1762664623552" [accepted]
+INFO:     connection open
+INFO:     127.0.0.1:59981 - "WebSocket /ws/client_1762663160630" [accepted]
+INFO:     connection open
+INFO:     127.0.0.1:59983 - "WebSocket /ws/client_1762664623552" [accepted]
+INFO:     connection open
+INFO:     127.0.0.1:59985 - "WebSocket /ws/client_1762663160630" [accepted]
+INFO:     connection open
+INFO:     127.0.0.1:59987 - "WebSocket /ws/client_1762663150593" [accepted]
+INFO:     connection open
+INFO:     127.0.0.1:59989 - "WebSocket /ws/client_1762663150593" [accepted]
+INFO:     connection open
+INFO:     WebSocket client connected: client_1762664623552
+INFO:     WebSocket client connected: client_1762663160630
+INFO:     WebSocket client connected: client_1762664623552
+INFO:     WebSocket client connected: client_1762663160630
+INFO:     WebSocket client connected: client_1762663150593
+INFO:     WebSocket client connected: client_1762663150593
+⚠️ Entry point AI failed: Error code: 500 - {'detail': "Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-sonnet-20241022'}, 'request_id': 'req_011CUwtiSNicHZxpDmUzNx9N'}"}
+INFO:     127.0.0.1:59999 - "POST /suggest-entry-point HTTP/1.1" 200 OK
+⚠️ Entry point AI failed: Error code: 500 - {'detail': "Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-sonnet-20241022'}, 'request_id': 'req_011CUwtjepMaybUqnUcb43C3'}"}
+INFO:     127.0.0.1:60010 - "POST /suggest-entry-point HTTP/1.1" 500 Internal Server Error
+ERROR:    Exception in ASGI application
+Traceback (most recent call last):
+  File "/Users/aaryamanbajaj/Documents/live-3d/backend/agents/advanced_medical_agent.py", line 202, in suggest_optimal_entry_point
+    reasoning_result = await self.runner.run(
+                       ^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/aaryamanbajaj/Documents/live-3d/venv/lib/python3.11/site-packages/dedalus_labs/lib/runner/core.py", line 479, in _execute_turns_async
+    response = await self.client.chat.completions.create(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/aaryamanbajaj/Documents/live-3d/venv/lib/python3.11/site-packages/dedalus_labs/resources/chat/completions.py", line 2221, in create
+    return await self._post(
+           ^^^^^^^^^^^^^^^^^
+  File "/Users/aaryamanbajaj/Documents/live-3d/venv/lib/python3.11/site-packages/dedalus_labs/_base_client.py", line 1762, in post
+    return await self.request(cast_to, opts, stream=stream, stream_cls=stream_cls)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/aaryamanbajaj/Documents/live-3d/venv/lib/python3.11/site-packages/dedalus_labs/_base_client.py", line 1576, in request
+    raise self._make_status_error_from_response(err.response) from None
+dedalus_labs.InternalServerError: Error code: 500 - {'detail': "Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-sonnet-20241022'}, 'request_id': 'req_011CUwtjepMaybUqnUcb43C3'}"}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/aaryamanbajaj/Documents/live-3d/venv/lib/python3.11/site-packages/uvicorn/protocols/http/h11_impl.py", line 403, in run_asgi
+    result = await app(  # type: ignore[func-returns-value]
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/aaryamanbajaj/Documents/live-3d/venv/lib/python3.11/site-packages/uvicorn/middleware/proxy_headers.py", line 60, in __call__
+    return await self.app(scope, receive, send)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/aaryamanbajaj/Documents/live-3d/venv/lib/python3.11/site-packages/fastapi/applications.py", line 1134, in __call__
+    await super().__call__(scope, receive, send)
+  File "/Users/aaryamanbajaj/Documents/live-3d/venv/lib/python3.11/site-packages/starlette/applications.py", line 113, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/Users/aaryamanbajaj/Documents/live-3d/venv/lib/python3.11/site-packages/starlette/middleware/errors.py", line 186, in __call__
+    raise exc
+  File "/Users/aaryamanbajaj/Documents/live-3d/venv/lib/python3.11/site-packages/starlette/middleware/errors.py", line 164, in __call__
+    await self.app(scope, receive, _send)
+  File "/Users/aaryamanbajaj/Documents/live-3d/venv/lib/python3.11/site-packages/starlette/middleware/cors.py", line 85, in __call__
+    await self.app(scope, receive, send)
+  File "/Users/aaryamanbajaj/Documents/live-3d/venv/lib/python3.11/site-packages/starlette/middleware/exceptions.py", line 63, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "/Users/aaryamanbajaj/Documents/live-3d/venv/lib/python3.11/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "/Users/aaryamanbajaj/Documents/live-3d/venv/lib/python3.11/site-packages/starlette/_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "/Users/aaryamanbajaj/Documents/live-3d/venv/lib/python3.11/site-packages/fastapi/middleware/asyncexitstack.py", line 18, in __call__
+    await self.app(scope, receive, send)
+  File "/Users/aaryamanbajaj/Documents/live-3d/venv/lib/python3.11/site-packages/starlette/routing.py", line 716, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/Users/aaryamanbajaj/Documents/live-3d/venv/lib/python3.11/site-packages/starlette/routing.py", line 736, in app
+    await route.handle(scope, receive, send)
+  File "/Users/aaryamanbajaj/Documents/live-3d/venv/lib/python3.11/site-packages/starlette/routing.py", line 290, in handle
+    await self.app(scope, receive, send)
+  File "/Users/aaryamanbajaj/Documents/live-3d/venv/lib/python3.11/site-packages/fastapi/routing.py", line 125, in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+  File "/Users/aaryamanbajaj/Documents/live-3d/venv/lib/python3.11/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "/Users/aaryamanbajaj/Documents/live-3d/venv/lib/python3.11/site-packages/starlette/_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "/Users/aaryamanbajaj/Documents/live-3d/venv/lib/python3.11/site-packages/fastapi/routing.py", line 111, in app
+    response = await f(request)
+               ^^^^^^^^^^^^^^^^
+  File "/Users/aaryamanbajaj/Documents/live-3d/venv/lib/python3.11/site-packages/fastapi/routing.py", line 391, in app
+    raw_response = await run_endpoint_function(
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/aaryamanbajaj/Documents/live-3d/venv/lib/python3.11/site-packages/fastapi/routing.py", line 290, in run_endpoint_function
+    return await dependant.call(**values)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/aaryamanbajaj/Documents/live-3d/backend/api/server.py", line 103, in suggest_entry_point
+    result = await medical_agent.suggest_optimal_entry_point(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/aaryamanbajaj/Documents/live-3d/backend/agents/advanced_medical_agent.py", line 230, in suggest_optimal_entry_point
+    return self._fallback_entry_point(annotations, mesh_data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/aaryamanbajaj/Documents/live-3d/backend/agents/advanced_medical_agent.py", line 447, in _fallback_entry_point
+    breakdown = self._calculate_confidence_breakdown(position, annotations, mesh_data)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/aaryamanbajaj/Documents/live-3d/backend/agents/advanced_medical_agent.py", line 341, in _calculate_confidence_breakdown
+    min_vessel_distance = min(min_vessel_distance, dist['value'])
+                                                   ~~~~^^^^^^^^^
+KeyError: 'value'
+WARNING:  StatReload detected changes in 'backend/agents/advanced_medical_agent.py'. Reloading...
+INFO:     Shutting down
+INFO:     connection closed
+INFO:     connection closed
+INFO:     connection closed
+INFO:     connection closed
+INFO:     connection closed
+INFO:     connection closed
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [37209]
+INFO:     Started server process [37942]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+WARNING:  StatReload detected changes in 'backend/agents/advanced_medical_agent.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [37942]
+INFO:     Started server process [37947]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     127.0.0.1:60052 - "WebSocket /ws/client_1762664623552" [accepted]
+INFO:     connection open
+INFO:     127.0.0.1:60054 - "WebSocket /ws/client_1762663160630" [accepted]
+INFO:     connection open
+INFO:     127.0.0.1:60057 - "WebSocket /ws/client_1762663150593" [accepted]
+INFO:     connection open
+INFO:     127.0.0.1:60059 - "WebSocket /ws/client_1762663160630" [accepted]
+INFO:     connection open
+INFO:     127.0.0.1:60061 - "WebSocket /ws/client_1762663150593" [accepted]
+INFO:     connection open
+INFO:     127.0.0.1:60063 - "WebSocket /ws/client_1762664623552" [accepted]
+INFO:     connection open
+INFO:     WebSocket client connected: client_1762664623552
+INFO:     WebSocket client connected: client_1762663160630
+INFO:     WebSocket client connected: client_1762663150593
+INFO:     WebSocket client connected: client_1762663160630
+INFO:     WebSocket client connected: client_1762663150593
+INFO:     WebSocket client connected: client_1762664623552
+⚠️ Entry point AI failed: Error code: 500 - {'detail': "Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-sonnet-20241022'}, 'request_id': 'req_011CUwtrzh8ogPksjzVE3CbT'}"}
+INFO:     127.0.0.1:60101 - "POST /suggest-entry-point HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60137 - "POST /analyze HTTP/1.1" 200 OK
+⚠️ Entry point AI failed: Error code: 500 - {'detail': "Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-sonnet-20241022'}, 'request_id': 'req_011CUwtyTZKpvNGRYEMPvurA'}"}
+INFO:     127.0.0.1:60155 - "POST /suggest-entry-point HTTP/1.1" 200 OK
+⚠️ Entry point AI failed: Error code: 500 - {'detail': "Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-sonnet-20241022'}, 'request_id': 'req_011CUwtyuPqR3ekF5VdxdW64'}"}
+⚠️ Entry point AI failed: Error code: 500 - {'detail': "Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-sonnet-20241022'}, 'request_id': 'req_011CUwtzWgdGmt9BVohU3QYs'}"}
+INFO:     127.0.0.1:60166 - "POST /suggest-entry-point HTTP/1.1" 200 OK
+⚠️ Entry point AI failed: Error code: 500 - {'detail': "Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-sonnet-20241022'}, 'request_id': 'req_011CUwu11bBc2SCvjuWqkcNw'}"}
+INFO:     127.0.0.1:60177 - "POST /suggest-entry-point HTTP/1.1" 200 OK
+⚠️ Entry point AI failed: Error code: 500 - {'detail': "Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-sonnet-20241022'}, 'request_id': 'req_011CUwu1jFSvDCg7oNF9vxC6'}"}
+INFO:     127.0.0.1:60183 - "POST /suggest-entry-point HTTP/1.1" 200 OK
+WARNING:  StatReload detected changes in 'backend/agents/advanced_medical_agent.py'. Reloading...
+INFO:     Shutting down
+INFO:     connection closed
+INFO:     connection closed
+INFO:     connection closed
+INFO:     connection closed
+INFO:     connection closed
+INFO:     connection closed
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [37947]
+INFO:     Started server process [41988]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     127.0.0.1:60245 - "WebSocket /ws/client_1762663160630" [accepted]
+INFO:     connection open
+INFO:     127.0.0.1:60247 - "WebSocket /ws/client_1762663150593" [accepted]
+INFO:     connection open
+INFO:     127.0.0.1:60249 - "WebSocket /ws/client_1762664623552" [accepted]
+INFO:     connection open
+INFO:     127.0.0.1:60251 - "WebSocket /ws/client_1762663150593" [accepted]
+INFO:     connection open
+INFO:     127.0.0.1:60253 - "WebSocket /ws/client_1762663160630" [accepted]
+INFO:     connection open
+INFO:     127.0.0.1:60255 - "WebSocket /ws/client_1762664623552" [accepted]
+INFO:     connection open
+WARNING:  StatReload detected changes in 'backend/api/server.py'. Reloading...
+INFO:     Shutting down
+INFO:     connection closed
+INFO:     connection closed
+INFO:     connection closed
+INFO:     connection closed
+INFO:     connection closed
+INFO:     connection closed
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [41988]
+INFO:     Started server process [41995]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     127.0.0.1:60269 - "WebSocket /ws/client_1762663160630" [accepted]
+INFO:     connection open
+INFO:     127.0.0.1:60271 - "WebSocket /ws/client_1762664623552" [accepted]
+INFO:     connection open
+INFO:     127.0.0.1:60273 - "WebSocket /ws/client_1762663160630" [accepted]
+INFO:     connection open
+INFO:     127.0.0.1:60275 - "WebSocket /ws/client_1762663150593" [accepted]
+INFO:     connection open
+INFO:     127.0.0.1:60277 - "WebSocket /ws/client_1762664623552" [accepted]
+INFO:     connection open
+INFO:     127.0.0.1:60279 - "WebSocket /ws/client_1762663150593" [accepted]
+INFO:     connection open
+INFO:     WebSocket client connected: client_1762663160630
+INFO:     WebSocket client connected: client_1762664623552
+INFO:     WebSocket client connected: client_1762663160630
+INFO:     WebSocket client connected: client_1762663150593
+INFO:     WebSocket client connected: client_1762664623552
+INFO:     WebSocket client connected: client_1762663150593
+INFO:     127.0.0.1:60326 - "POST /analyze-incision HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60343 - "POST /analyze-incision HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60411 - "WebSocket /ws/client_1762672549979" [accepted]
+INFO:     connection open
+INFO:     127.0.0.1:60413 - "WebSocket /ws/client_1762672549979" [accepted]
+INFO:     connection open
+INFO:     WebSocket client connected: client_1762672549979
+INFO:     WebSocket client connected: client_1762672549979
+INFO:     127.0.0.1:60423 - "GET /health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60441 - "WebSocket /ws/client_1762672569119" [accepted]
+INFO:     connection open
+INFO:     127.0.0.1:60443 - "WebSocket /ws/client_1762672569119" [accepted]
+INFO:     connection open
+INFO:     WebSocket client connected: client_1762672569119
+INFO:     WebSocket client connected: client_1762672569119
+INFO:     127.0.0.1:60448 - "POST /upload-video HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60448 - "POST /reconstruct/7d07c9bb-0252-4ce9-9948-2a01eb5c6652 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60462 - "GET /models/bottle_small.glb HTTP/1.1" 304 Not Modified
+INFO:     connection closed
+INFO:     connection closed
+INFO:     127.0.0.1:60529 - "WebSocket /ws/client_1762672681433" [accepted]
+INFO:     connection open
+INFO:     127.0.0.1:60531 - "WebSocket /ws/client_1762672681433" [accepted]
+INFO:     connection open
+INFO:     WebSocket client disconnected: client_1762672569119 (code: 1001)
+INFO:     WebSocket cleanup completed for client_1762672569119
+INFO:     WebSocket client disconnected: client_1762672569119 (code: 1001)
+INFO:     WebSocket cleanup completed for client_1762672569119
+INFO:     WebSocket client connected: client_1762672681433
+INFO:     WebSocket client connected: client_1762672681433
+INFO:     127.0.0.1:60533 - "POST /upload-video HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60533 - "POST /reconstruct/fa2d414c-2e20-4812-99ce-9a03aa3e1992 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60959 - "WebSocket /ws/client_1762672808478" [accepted]
+INFO:     connection open
+INFO:     127.0.0.1:60961 - "WebSocket /ws/client_1762672808592" [accepted]
+INFO:     connection open
+INFO:     connection closed
+INFO:     connection closed
+INFO:     connection closed
+INFO:     127.0.0.1:61314 - "WebSocket /ws/client_1762673059424" [accepted]
+INFO:     connection open
+INFO:     127.0.0.1:61316 - "WebSocket /ws/client_1762673059424" [accepted]
+INFO:     connection open
+INFO:     WebSocket client connected: client_1762672808478
+INFO:     WebSocket client connected: client_1762672808592
+INFO:     WebSocket client disconnected: client_1762672549979 (code: 1001)
+INFO:     WebSocket cleanup completed for client_1762672549979
+INFO:     WebSocket client disconnected: client_1762672549979 (code: 1001)
+INFO:     WebSocket cleanup completed for client_1762672549979
+INFO:     WebSocket client disconnected: client_1762672808478 (code: 1001)
+INFO:     WebSocket cleanup completed for client_1762672808478
+INFO:     WebSocket client connected: client_1762673059424
+INFO:     WebSocket client connected: client_1762673059424
+INFO:     127.0.0.1:61358 - "POST /upload-video HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61358 - "POST /reconstruct/59ab852f-88b2-461d-9896-b15d4b62f667 HTTP/1.1" 200 OK
+INFO:     connection closed
+INFO:     connection closed
+INFO:     connection closed
+INFO:     127.0.0.1:61456 - "WebSocket /ws/client_1762673352310" [accepted]
+INFO:     connection open
+INFO:     127.0.0.1:61458 - "WebSocket /ws/client_1762673352310" [accepted]
+INFO:     connection open
+INFO:     WebSocket client disconnected: client_1762672681433 (code: 1001)
+INFO:     WebSocket cleanup completed for client_1762672681433
+INFO:     WebSocket client disconnected: client_1762672808592 (code: 1001)
+INFO:     WebSocket cleanup completed for client_1762672808592
+INFO:     WebSocket client disconnected: client_1762672681433 (code: 1001)
+INFO:     WebSocket cleanup completed for client_1762672681433
+INFO:     WebSocket client connected: client_1762673352310
+INFO:     WebSocket client connected: client_1762673352310
+INFO:     127.0.0.1:61462 - "POST /upload-video HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61462 - "POST /reconstruct/c4e7bf30-9810-4424-87a9-05cd3506d436 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61479 - "OPTIONS /analyze-incision HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61479 - "POST /analyze-incision HTTP/1.1" 200 OK
+INFO:     connection closed
+INFO:     connection closed
+INFO:     connection closed
+INFO:     connection closed
+INFO:     127.0.0.1:61945 - "WebSocket /ws/client_1762674840728" [accepted]
+INFO:     connection open
+INFO:     127.0.0.1:61947 - "WebSocket /ws/client_1762674840728" [accepted]
+INFO:     connection open
+INFO:     127.0.0.1:61961 - "WebSocket /ws/client_1762674855511" [accepted]
+INFO:     connection open
+INFO:     127.0.0.1:61963 - "WebSocket /ws/client_1762674855511" [accepted]
+INFO:     connection open
+INFO:     WebSocket client disconnected: client_1762673352310 (code: 1001)
+INFO:     WebSocket cleanup completed for client_1762673352310
+INFO:     WebSocket client disconnected: client_1762673352310 (code: 1001)
+INFO:     WebSocket cleanup completed for client_1762673352310
+INFO:     WebSocket client disconnected: client_1762673059424 (code: 1001)
+INFO:     WebSocket cleanup completed for client_1762673059424
+INFO:     WebSocket client disconnected: client_1762673059424 (code: 1001)
+INFO:     WebSocket cleanup completed for client_1762673059424
+INFO:     WebSocket client connected: client_1762674840728
+INFO:     WebSocket client connected: client_1762674840728
+INFO:     WebSocket client connected: client_1762674855511
+INFO:     WebSocket client connected: client_1762674855511
+INFO:     127.0.0.1:61968 - "POST /upload-video HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61968 - "POST /reconstruct/81ed1620-df7f-47fc-b6ea-6e93d0adcdf9 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61980 - "OPTIONS /analyze HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61980 - "POST /analyze HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61987 - "OPTIONS /analyze-incision HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61987 - "POST /analyze-incision HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61991 - "POST /analyze-incision HTTP/1.1" 200 OK
+INFO:     connection closed
+INFO:     connection closed
+INFO:     127.0.0.1:62128 - "WebSocket /ws/client_1762675207789" [accepted]
+INFO:     connection open
+INFO:     127.0.0.1:62131 - "WebSocket /ws/client_1762675207789" [accepted]
+INFO:     connection open
+INFO:     WebSocket client disconnected: client_1762674855511 (code: 1001)
+INFO:     WebSocket cleanup completed for client_1762674855511
+INFO:     WebSocket client disconnected: client_1762674855511 (code: 1001)
+INFO:     WebSocket cleanup completed for client_1762674855511
+INFO:     WebSocket client connected: client_1762675207789
+INFO:     WebSocket client connected: client_1762675207789
+INFO:     127.0.0.1:62136 - "POST /upload-video HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62136 - "POST /reconstruct/ea263496-bff6-4879-8a3a-83e5427d64c4 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62145 - "POST /analyze HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62153 - "POST /analyze-incision HTTP/1.1" 200 OK
+INFO:     connection closed
+INFO:     connection closed
+INFO:     connection closed
+INFO:     connection closed
+INFO:     127.0.0.1:62239 - "WebSocket /ws/client_1762675449199" [accepted]
+INFO:     connection open
+INFO:     127.0.0.1:62241 - "WebSocket /ws/client_1762675449199" [accepted]
+INFO:     connection open
+INFO:     127.0.0.1:62338 - "WebSocket /ws/client_1762675765728" [accepted]
+INFO:     connection open
+INFO:     127.0.0.1:62340 - "WebSocket /ws/client_1762675765728" [accepted]
+INFO:     connection open
+INFO:     connection closed
+INFO:     connection closed
+INFO:     127.0.0.1:62347 - "WebSocket /ws/client_1762675766896" [accepted]
+INFO:     connection open
+INFO:     127.0.0.1:62349 - "WebSocket /ws/client_1762675766896" [accepted]
+INFO:     connection open
+INFO:     WebSocket client disconnected: client_1762675207789 (code: 1001)
+INFO:     WebSocket cleanup completed for client_1762675207789
+INFO:     WebSocket client disconnected: client_1762675207789 (code: 1001)
+INFO:     WebSocket cleanup completed for client_1762675207789
+INFO:     WebSocket client disconnected: client_1762674840728 (code: 1001)
+INFO:     WebSocket cleanup completed for client_1762674840728
+INFO:     WebSocket client disconnected: client_1762674840728 (code: 1001)
+INFO:     WebSocket cleanup completed for client_1762674840728
+INFO:     WebSocket client connected: client_1762675449199
+INFO:     WebSocket client connected: client_1762675449199
+INFO:     WebSocket client connected: client_1762675765728
+INFO:     WebSocket client connected: client_1762675765728
+INFO:     WebSocket client disconnected: client_1762675449199 (code: 1001)
+INFO:     WebSocket cleanup completed for client_1762675449199
+INFO:     WebSocket client disconnected: client_1762675449199 (code: 1001)
+INFO:     WebSocket cleanup completed for client_1762675449199
+INFO:     WebSocket client connected: client_1762675766896
+INFO:     WebSocket client connected: client_1762675766896
+INFO:     127.0.0.1:62352 - "POST /upload-video HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62352 - "POST /reconstruct/351aef33-a539-4b11-a267-0e3f733953f9 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62352 - "GET /models/bottle_small.glb HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:62367 - "OPTIONS /analyze-incision HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62367 - "POST /analyze-incision HTTP/1.1" 200 OK
+INFO:     connection closed
+INFO:     connection closed
+INFO:     127.0.0.1:62429 - "WebSocket /ws/client_1762675995662" [accepted]
+INFO:     connection open
+INFO:     127.0.0.1:62431 - "WebSocket /ws/client_1762675995662" [accepted]
+INFO:     connection open
+INFO:     connection closed
+INFO:     connection closed
+INFO:     127.0.0.1:62437 - "WebSocket /ws/client_1762675997187" [accepted]
+INFO:     connection open
+INFO:     127.0.0.1:62439 - "WebSocket /ws/client_1762675997187" [accepted]
+INFO:     connection open
+INFO:     WebSocket client disconnected: client_1762675765728 (code: 1001)
+INFO:     WebSocket cleanup completed for client_1762675765728
+INFO:     WebSocket client disconnected: client_1762675765728 (code: 1001)
+INFO:     WebSocket cleanup completed for client_1762675765728
+INFO:     WebSocket client connected: client_1762675995662
+INFO:     WebSocket client connected: client_1762675995662
+INFO:     WebSocket client disconnected: client_1762675766896 (code: 1001)
+INFO:     WebSocket cleanup completed for client_1762675766896
+INFO:     WebSocket client disconnected: client_1762675766896 (code: 1001)
+INFO:     WebSocket cleanup completed for client_1762675766896
+INFO:     WebSocket client connected: client_1762675997187
+INFO:     WebSocket client connected: client_1762675997187
+INFO:     127.0.0.1:62442 - "POST /upload-video HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62442 - "POST /reconstruct/a4739148-7419-4ae8-9b20-eb9b61042dbf HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62460 - "POST /analyze-incision HTTP/1.1" 200 OK
+INFO:     connection closed
+INFO:     connection closed
+INFO:     127.0.0.1:63064 - "WebSocket /ws/client_1762679203131" [accepted]
+INFO:     connection open
+INFO:     127.0.0.1:63066 - "WebSocket /ws/client_1762679203131" [accepted]
+INFO:     connection open
+INFO:     127.0.0.1:63114 - "WebSocket /ws/client_1762679290523" [accepted]
+INFO:     connection open
+INFO:     127.0.0.1:63116 - "WebSocket /ws/client_1762679290523" [accepted]
+INFO:     connection open
+INFO:     127.0.0.1:63122 - "WebSocket /ws/client_1762679293795" [accepted]
+INFO:     connection open
+INFO:     127.0.0.1:63124 - "WebSocket /ws/client_1762679293795" [accepted]
+INFO:     connection open
+INFO:     WebSocket client disconnected: client_1762675995662 (code: 1001)
+INFO:     WebSocket cleanup completed for client_1762675995662
+INFO:     WebSocket client disconnected: client_1762675995662 (code: 1001)
+INFO:     WebSocket cleanup completed for client_1762675995662
+INFO:     WebSocket client connected: client_1762679203131
+INFO:     WebSocket client connected: client_1762679203131
+INFO:     WebSocket client connected: client_1762679290523
+INFO:     WebSocket client connected: client_1762679290523
+INFO:     WebSocket client connected: client_1762679293795
+INFO:     WebSocket client connected: client_1762679293795
+INFO:     127.0.0.1:63128 - "POST /upload-video HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63131 - "POST /upload-video HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63128 - "POST /reconstruct/56fbe1cb-5463-4831-91a0-6a530b8d5b2c HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63128 - "GET /models/bottle_small.glb HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:63131 - "POST /reconstruct/64ec942e-7abd-4457-ab5d-7259b041a956 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63158 - "OPTIONS /analyze-incision HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63158 - "POST /analyze-incision HTTP/1.1" 200 OK
+INFO:     connection closed
+INFO:     connection closed
+INFO:     connection closed
+INFO:     connection closed
+INFO:     127.0.0.1:63218 - "WebSocket /ws/client_1762679615219" [accepted]
+INFO:     connection open
+INFO:     127.0.0.1:63220 - "WebSocket /ws/client_1762679615219" [accepted]
+INFO:     connection open
+INFO:     WebSocket client disconnected: client_1762679290523 (code: 1001)
+INFO:     WebSocket cleanup completed for client_1762679290523
+INFO:     WebSocket client disconnected: client_1762679290523 (code: 1001)
+INFO:     WebSocket cleanup completed for client_1762679290523
+INFO:     WebSocket client disconnected: client_1762679293795 (code: 1001)
+INFO:     WebSocket cleanup completed for client_1762679293795
+INFO:     WebSocket client disconnected: client_1762679293795 (code: 1001)
+INFO:     WebSocket cleanup completed for client_1762679293795
+INFO:     WebSocket client connected: client_1762679615219
+INFO:     WebSocket client connected: client_1762679615219
+INFO:     127.0.0.1:63224 - "POST /upload-video HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63224 - "POST /reconstruct/8c7df324-dd44-4b2a-bf9f-f3e3c515f27e HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63230 - "POST /upload-video HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63230 - "POST /reconstruct/98c2d0bd-ae89-4012-a990-90aabb9825a6 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63250 - "OPTIONS /analyze HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63253 - "POST /analyze-incision HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63250 - "POST /analyze HTTP/1.1" 200 OK
+INFO:     connection closed
+INFO:     connection closed
+INFO:     127.0.0.1:63300 - "WebSocket /ws/client_1762679982498" [accepted]
+INFO:     connection open
+INFO:     127.0.0.1:63302 - "WebSocket /ws/client_1762679982498" [accepted]
+INFO:     connection open
+INFO:     connection closed
+INFO:     connection closed
+INFO:     connection closed
+INFO:     connection closed

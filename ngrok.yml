@@ -1,0 +1,9 @@
+version: "2"
+authtoken: # your token is already configured
+tunnels:
+  frontend:
+    proto: http
+    addr: 3000
+  backend:
+    proto: http
+    addr: 8000

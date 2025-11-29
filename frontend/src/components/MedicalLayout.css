@@ -1,0 +1,286 @@
+/* Medical Layout - Surgical-grade professional theme */
+
+.medical-layout {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  background: #0A0E14;
+  color: #E8EAED;
+  font-family: 'IBM Plex Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  overflow: hidden;
+}
+
+/* Header */
+.medical-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 16px 24px;
+  background: #1A1F2E;
+  border-bottom: 2px solid #2E7D32;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
+  z-index: 100;
+}
+
+.medical-header-left {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
+
+.medical-title {
+  margin: 0;
+  font-size: 20px;
+  font-weight: 600;
+  letter-spacing: 0.5px;
+  color: #E8EAED;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.medical-icon {
+  font-size: 24px;
+}
+
+.medical-header-right {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 13px;
+}
+
+.session-badge {
+  padding: 4px 12px;
+  background: #1976D2;
+  color: white;
+  border-radius: 4px;
+  font-weight: 600;
+  font-size: 11px;
+  letter-spacing: 0.5px;
+}
+
+.session-id {
+  color: #9AA0A6;
+  font-weight: 500;
+}
+
+.session-time {
+  color: #9AA0A6;
+  font-weight: 500;
+}
+
+/* Three-Panel Grid */
+.medical-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr 400px;
+  gap: 1px;
+  flex: 1;
+  background: #0A0E14;
+  overflow: hidden;
+}
+
+.medical-panel {
+  background: #1A1F2E;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+}
+
+.medical-panel-planning {
+  border-right: 1px solid #2A2F3E;
+}
+
+.medical-panel-guidance {
+  border-right: 1px solid #2A2F3E;
+}
+
+.medical-panel-analysis {
+  background: #151922;
+}
+
+.panel-header {
+  padding: 16px 20px;
+  border-bottom: 1px solid #2A2F3E;
+  background: linear-gradient(180deg, #1E2330 0%, #1A1F2E 100%);
+}
+
+.panel-title {
+  margin: 0 0 4px 0;
+  font-size: 14px;
+  font-weight: 700;
+  letter-spacing: 1px;
+  color: #2E7D32;
+  text-transform: uppercase;
+}
+
+.panel-subtitle {
+  font-size: 12px;
+  color: #9AA0A6;
+  font-weight: 400;
+}
+
+.panel-content {
+  flex: 1;
+  overflow: hidden;
+  padding: 20px;
+}
+
+.panel-content-scrollable {
+  overflow-y: auto;
+}
+
+/* Custom scrollbar for medical theme */
+.panel-content-scrollable::-webkit-scrollbar {
+  width: 8px;
+}
+
+.panel-content-scrollable::-webkit-scrollbar-track {
+  background: #0A0E14;
+}
+
+.panel-content-scrollable::-webkit-scrollbar-thumb {
+  background: #2A2F3E;
+  border-radius: 4px;
+}
+
+.panel-content-scrollable::-webkit-scrollbar-thumb:hover {
+  background: #3A3F4E;
+}
+
+/* Footer Status Bar */
+.medical-footer {
+  display: flex;
+  align-items: center;
+  padding: 12px 24px;
+  background: #151922;
+  border-top: 1px solid #2A2F3E;
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 12px;
+  color: #9AA0A6;
+  gap: 16px;
+}
+
+.footer-section {
+  display: flex;
+  gap: 8px;
+  align-items: center;
+}
+
+.footer-label {
+  color: #6B7280;
+  font-weight: 500;
+}
+
+.footer-value {
+  color: #E8EAED;
+  font-weight: 600;
+}
+
+.footer-status-healthy {
+  color: #2E7D32;
+}
+
+.footer-divider {
+  color: #2A2F3E;
+}
+
+/* Responsive adjustments */
+@media (max-width: 1400px) {
+  .medical-grid {
+    grid-template-columns: 1fr 1fr 350px;
+  }
+}
+
+@media (max-width: 1200px) {
+  .medical-grid {
+    grid-template-columns: 1fr 1fr;
+  }
+  
+  .medical-panel-analysis {
+    display: none;
+  }
+}
+
+/* Medical-grade button styles */
+.medical-btn {
+  padding: 12px 24px;
+  background: #2E7D32;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  font-size: 14px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.2s;
+  font-family: 'IBM Plex Sans', sans-serif;
+  letter-spacing: 0.5px;
+}
+
+.medical-btn:hover {
+  background: #388E3C;
+  box-shadow: 0 2px 8px rgba(46, 125, 50, 0.3);
+}
+
+.medical-btn:active {
+  transform: translateY(1px);
+}
+
+.medical-btn-secondary {
+  background: #1976D2;
+}
+
+.medical-btn-secondary:hover {
+  background: #1E88E5;
+}
+
+.medical-btn-danger {
+  background: #C62828;
+}
+
+.medical-btn-danger:hover {
+  background: #D32F2F;
+}
+
+.medical-btn:disabled {
+  background: #3A3F4E;
+  color: #6B7280;
+  cursor: not-allowed;
+}
+
+/* Medical status indicators */
+.status-indicator {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 6px 12px;
+  border-radius: 4px;
+  font-size: 12px;
+  font-weight: 600;
+  font-family: 'IBM Plex Mono', monospace;
+}
+
+.status-safe {
+  background: rgba(46, 125, 50, 0.2);
+  color: #2E7D32;
+  border: 1px solid #2E7D32;
+}
+
+.status-caution {
+  background: rgba(245, 124, 0, 0.2);
+  color: #F57C00;
+  border: 1px solid #F57C00;
+}
+
+.status-danger {
+  background: rgba(198, 40, 40, 0.2);
+  color: #C62828;
+  border: 1px solid #C62828;
+}
+
+.status-info {
+  background: rgba(25, 118, 210, 0.2);
+  color: #1976D2;
+  border: 1px solid #1976D2;
+}

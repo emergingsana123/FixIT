@@ -1,0 +1,1528 @@
+
+> frontend@0.1.0 start
+> react-scripts start
+
+(node:29827) [DEP_WEBPACK_DEV_SERVER_ON_AFTER_SETUP_MIDDLEWARE] DeprecationWarning: 'onAfterSetupMiddleware' option is deprecated. Please use the 'setupMiddlewares' option.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+(node:29827) [DEP_WEBPACK_DEV_SERVER_ON_BEFORE_SETUP_MIDDLEWARE] DeprecationWarning: 'onBeforeSetupMiddleware' option is deprecated. Please use the 'setupMiddlewares' option.
+Starting the development server...
+
+Compiled with warnings.
+
+Failed to parse source map from '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map' file: Error: ENOENT: no such file or directory, open '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map'
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in ./node_modules/@mediapipe/tasks-vision/vision_bundle.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map' file: Error: ENOENT: no such file or directory, open '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map'
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+Failed to parse source map from '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map' file: Error: ENOENT: no such file or directory, open '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map'
+
+[eslint] 
+src/components/VideoCapture.jsx
+  Line 45:9:  'noBottleFrames' is assigned a value but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in ./node_modules/@mediapipe/tasks-vision/vision_bundle.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map' file: Error: ENOENT: no such file or directory, open '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map'
+
+WARNING in [eslint] 
+src/components/VideoCapture.jsx
+  Line 45:9:  'noBottleFrames' is assigned a value but never used  no-unused-vars
+
+webpack compiled with 2 warnings
+Compiling...
+Compiled with warnings.
+
+Failed to parse source map from '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map' file: Error: ENOENT: no such file or directory, open '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map'
+
+[eslint] 
+src/components/VideoCapture.jsx
+  Line 14:10:  'calibration' is assigned a value but never used     no-unused-vars
+  Line 53:9:   'noBottleFrames' is assigned a value but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in ./node_modules/@mediapipe/tasks-vision/vision_bundle.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map' file: Error: ENOENT: no such file or directory, open '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map'
+
+WARNING in [eslint] 
+src/components/VideoCapture.jsx
+  Line 14:10:  'calibration' is assigned a value but never used     no-unused-vars
+  Line 53:9:   'noBottleFrames' is assigned a value but never used  no-unused-vars
+
+webpack compiled with 2 warnings
+Compiling...
+Compiled with warnings.
+
+Failed to parse source map from '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map' file: Error: ENOENT: no such file or directory, open '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map'
+
+[eslint] 
+src/components/VideoCapture.jsx
+  Line 14:10:  'calibration' is assigned a value but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in ./node_modules/@mediapipe/tasks-vision/vision_bundle.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map' file: Error: ENOENT: no such file or directory, open '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map'
+
+WARNING in [eslint] 
+src/components/VideoCapture.jsx
+  Line 14:10:  'calibration' is assigned a value but never used  no-unused-vars
+
+webpack compiled with 2 warnings
+Compiling...
+Compiled with warnings.
+
+Failed to parse source map from '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map' file: Error: ENOENT: no such file or directory, open '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map'
+
+[eslint] 
+src/components/VideoCapture.jsx
+  Line 174:6:  React Hook useEffect has missing dependencies: 'annotations', 'calibration.bottom', 'calibration.cap', and 'calibration.middle'. Either include them or remove the dependency array  react-hooks/exhaustive-deps
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in ./node_modules/@mediapipe/tasks-vision/vision_bundle.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map' file: Error: ENOENT: no such file or directory, open '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map'
+
+WARNING in [eslint] 
+src/components/VideoCapture.jsx
+  Line 174:6:  React Hook useEffect has missing dependencies: 'annotations', 'calibration.bottom', 'calibration.cap', and 'calibration.middle'. Either include them or remove the dependency array  react-hooks/exhaustive-deps
+
+webpack compiled with 2 warnings
+Compiling...
+Compiled with warnings.
+
+Failed to parse source map from '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map' file: Error: ENOENT: no such file or directory, open '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map'
+
+[eslint] 
+src/components/VideoCapture.jsx
+  Line 174:6:  React Hook useEffect has missing dependencies: 'annotations', 'calibration.bottom', 'calibration.cap', and 'calibration.middle'. Either include them or remove the dependency array  react-hooks/exhaustive-deps
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in ./node_modules/@mediapipe/tasks-vision/vision_bundle.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map' file: Error: ENOENT: no such file or directory, open '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map'
+
+WARNING in [eslint] 
+src/components/VideoCapture.jsx
+  Line 174:6:  React Hook useEffect has missing dependencies: 'annotations', 'calibration.bottom', 'calibration.cap', and 'calibration.middle'. Either include them or remove the dependency array  react-hooks/exhaustive-deps
+
+webpack compiled with 2 warnings
+Compiling...
+Compiled with warnings.
+
+Failed to parse source map from '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map' file: Error: ENOENT: no such file or directory, open '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map'
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in ./node_modules/@mediapipe/tasks-vision/vision_bundle.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map' file: Error: ENOENT: no such file or directory, open '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map'
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+Failed to parse source map from '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map' file: Error: ENOENT: no such file or directory, open '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map'
+
+[eslint] 
+src/App.js
+  Line 4:10:  'AIAssistant' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in ./node_modules/@mediapipe/tasks-vision/vision_bundle.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map' file: Error: ENOENT: no such file or directory, open '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map'
+
+WARNING in [eslint] 
+src/App.js
+  Line 4:10:  'AIAssistant' is defined but never used  no-unused-vars
+
+webpack compiled with 2 warnings
+Compiling...
+Compiled with warnings.
+
+Failed to parse source map from '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map' file: Error: ENOENT: no such file or directory, open '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map'
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in ./node_modules/@mediapipe/tasks-vision/vision_bundle.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map' file: Error: ENOENT: no such file or directory, open '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map'
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+Failed to parse source map from '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map' file: Error: ENOENT: no such file or directory, open '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map'
+
+[eslint] 
+src/components/ModelViewer.jsx
+  Line 3:20:  'useEffect' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in ./node_modules/@mediapipe/tasks-vision/vision_bundle.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map' file: Error: ENOENT: no such file or directory, open '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map'
+
+WARNING in [eslint] 
+src/components/ModelViewer.jsx
+  Line 3:20:  'useEffect' is defined but never used  no-unused-vars
+
+webpack compiled with 2 warnings
+Compiling...
+Compiled with warnings.
+
+Failed to parse source map from '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map' file: Error: ENOENT: no such file or directory, open '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map'
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in ./node_modules/@mediapipe/tasks-vision/vision_bundle.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map' file: Error: ENOENT: no such file or directory, open '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map'
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+Failed to parse source map from '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map' file: Error: ENOENT: no such file or directory, open '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map'
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in ./node_modules/@mediapipe/tasks-vision/vision_bundle.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map' file: Error: ENOENT: no such file or directory, open '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map'
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+Failed to parse source map from '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map' file: Error: ENOENT: no such file or directory, open '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map'
+
+[eslint] 
+src/App.js
+  Line 14:10:  'meshData' is assigned a value but never used          no-unused-vars
+  Line 19:9:   'handleMeshLoaded' is assigned a value but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in ./node_modules/@mediapipe/tasks-vision/vision_bundle.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map' file: Error: ENOENT: no such file or directory, open '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map'
+
+WARNING in [eslint] 
+src/App.js
+  Line 14:10:  'meshData' is assigned a value but never used          no-unused-vars
+  Line 19:9:   'handleMeshLoaded' is assigned a value but never used  no-unused-vars
+
+webpack compiled with 2 warnings
+Compiling...
+Compiled with warnings.
+
+Failed to parse source map from '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map' file: Error: ENOENT: no such file or directory, open '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map'
+
+[eslint] 
+src/App.js
+  Line 14:10:  'meshData' is assigned a value but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in ./node_modules/@mediapipe/tasks-vision/vision_bundle.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map' file: Error: ENOENT: no such file or directory, open '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map'
+
+WARNING in [eslint] 
+src/App.js
+  Line 14:10:  'meshData' is assigned a value but never used  no-unused-vars
+
+webpack compiled with 2 warnings
+Compiling...
+Compiled with warnings.
+
+Failed to parse source map from '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map' file: Error: ENOENT: no such file or directory, open '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map'
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in ./node_modules/@mediapipe/tasks-vision/vision_bundle.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map' file: Error: ENOENT: no such file or directory, open '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map'
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+Failed to parse source map from '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map' file: Error: ENOENT: no such file or directory, open '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map'
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in ./node_modules/@mediapipe/tasks-vision/vision_bundle.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map' file: Error: ENOENT: no such file or directory, open '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map'
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+Failed to parse source map from '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map' file: Error: ENOENT: no such file or directory, open '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map'
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in ./node_modules/@mediapipe/tasks-vision/vision_bundle.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map' file: Error: ENOENT: no such file or directory, open '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map'
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+Failed to parse source map from '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map' file: Error: ENOENT: no such file or directory, open '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map'
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in ./node_modules/@mediapipe/tasks-vision/vision_bundle.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map' file: Error: ENOENT: no such file or directory, open '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map'
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+Failed to parse source map from '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map' file: Error: ENOENT: no such file or directory, open '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map'
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in ./node_modules/@mediapipe/tasks-vision/vision_bundle.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map' file: Error: ENOENT: no such file or directory, open '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map'
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+Failed to parse source map from '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map' file: Error: ENOENT: no such file or directory, open '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map'
+
+[eslint] 
+src/App.js
+  Line 5:10:  'IncisionPlanner' is defined but never used  no-unused-vars
+
+src/components/IncisionPlanner.jsx
+  Line 16:9:  'handleAddPoint' is assigned a value but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in ./node_modules/@mediapipe/tasks-vision/vision_bundle.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map' file: Error: ENOENT: no such file or directory, open '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map'
+
+WARNING in [eslint] 
+src/App.js
+  Line 5:10:  'IncisionPlanner' is defined but never used  no-unused-vars
+
+src/components/IncisionPlanner.jsx
+  Line 16:9:  'handleAddPoint' is assigned a value but never used  no-unused-vars
+
+webpack compiled with 2 warnings
+Compiling...
+Compiled with warnings.
+
+Failed to parse source map from '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map' file: Error: ENOENT: no such file or directory, open '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map'
+
+[eslint] 
+src/components/IncisionPlanner.jsx
+  Line 16:9:  'handleAddPoint' is assigned a value but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in ./node_modules/@mediapipe/tasks-vision/vision_bundle.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map' file: Error: ENOENT: no such file or directory, open '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map'
+
+WARNING in [eslint] 
+src/components/IncisionPlanner.jsx
+  Line 16:9:  'handleAddPoint' is assigned a value but never used  no-unused-vars
+
+webpack compiled with 2 warnings
+Compiling...
+Compiled with warnings.
+
+Failed to parse source map from '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map' file: Error: ENOENT: no such file or directory, open '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map'
+
+[eslint] 
+src/App.js
+  Line 16:25:  'setIsDrawingPath' is assigned a value but never used      no-unused-vars
+  Line 27:9:   'handlePathPointClick' is assigned a value but never used  no-unused-vars
+
+src/components/IncisionPlanner.jsx
+  Line 16:9:  'handleAddPoint' is assigned a value but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in ./node_modules/@mediapipe/tasks-vision/vision_bundle.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map' file: Error: ENOENT: no such file or directory, open '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map'
+
+WARNING in [eslint] 
+src/App.js
+  Line 16:25:  'setIsDrawingPath' is assigned a value but never used      no-unused-vars
+  Line 27:9:   'handlePathPointClick' is assigned a value but never used  no-unused-vars
+
+src/components/IncisionPlanner.jsx
+  Line 16:9:  'handleAddPoint' is assigned a value but never used  no-unused-vars
+
+webpack compiled with 2 warnings
+Compiling...
+Compiled with warnings.
+
+Failed to parse source map from '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map' file: Error: ENOENT: no such file or directory, open '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map'
+
+[eslint] 
+src/App.js
+  Line 16:25:  'setIsDrawingPath' is assigned a value but never used  no-unused-vars
+
+src/components/IncisionPlanner.jsx
+  Line 16:9:  'handleAddPoint' is assigned a value but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in ./node_modules/@mediapipe/tasks-vision/vision_bundle.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map' file: Error: ENOENT: no such file or directory, open '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map'
+
+WARNING in [eslint] 
+src/App.js
+  Line 16:25:  'setIsDrawingPath' is assigned a value but never used  no-unused-vars
+
+src/components/IncisionPlanner.jsx
+  Line 16:9:  'handleAddPoint' is assigned a value but never used  no-unused-vars
+
+webpack compiled with 2 warnings
+Compiling...
+Compiled with warnings.
+
+Failed to parse source map from '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map' file: Error: ENOENT: no such file or directory, open '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map'
+
+[eslint] 
+src/components/IncisionPlanner.jsx
+  Line 16:9:  'handleAddPoint' is assigned a value but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in ./node_modules/@mediapipe/tasks-vision/vision_bundle.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map' file: Error: ENOENT: no such file or directory, open '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map'
+
+WARNING in [eslint] 
+src/components/IncisionPlanner.jsx
+  Line 16:9:  'handleAddPoint' is assigned a value but never used  no-unused-vars
+
+webpack compiled with 2 warnings
+Compiling...
+Failed to compile.
+
+[eslint] 
+src/components/IncisionPlanner.jsx
+  Line 72:11:   'isDrawing' is not defined           no-undef
+  Line 74:22:   'handleStartDrawing' is not defined  no-undef
+  Line 90:10:   'isDrawing' is not defined           no-undef
+  Line 125:11:  'isDrawing' is not defined           no-undef
+  Line 144:8:   'isDrawing' is not defined           no-undef
+
+Search for the keywords to learn more about each error.
+WARNING in ./node_modules/@mediapipe/tasks-vision/vision_bundle.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map' file: Error: ENOENT: no such file or directory, open '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map'
+
+ERROR in [eslint] 
+src/components/IncisionPlanner.jsx
+  Line 72:11:   'isDrawing' is not defined           no-undef
+  Line 74:22:   'handleStartDrawing' is not defined  no-undef
+  Line 90:10:   'isDrawing' is not defined           no-undef
+  Line 125:11:  'isDrawing' is not defined           no-undef
+  Line 144:8:   'isDrawing' is not defined           no-undef
+
+Search for the keywords to learn more about each error.
+
+webpack compiled with 1 error and 1 warning
+Compiling...
+Compiled with warnings.
+
+Failed to parse source map from '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map' file: Error: ENOENT: no such file or directory, open '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map'
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in ./node_modules/@mediapipe/tasks-vision/vision_bundle.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map' file: Error: ENOENT: no such file or directory, open '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map'
+
+webpack compiled with 1 warning
+Compiling...
+Failed to compile.
+
+[eslint] 
+src/components/SyncedView.jsx
+  Line 28:28:  'onAddAnnotation' is not defined     no-undef
+  Line 29:31:  'onRemoveAnnotation' is not defined  no-undef
+
+Search for the keywords to learn more about each error.
+WARNING in ./node_modules/@mediapipe/tasks-vision/vision_bundle.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map' file: Error: ENOENT: no such file or directory, open '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map'
+
+ERROR in [eslint] 
+src/components/SyncedView.jsx
+  Line 28:28:  'onAddAnnotation' is not defined     no-undef
+  Line 29:31:  'onRemoveAnnotation' is not defined  no-undef
+
+Search for the keywords to learn more about each error.
+
+webpack compiled with 1 error and 1 warning
+Compiling...
+Compiled with warnings.
+
+Failed to parse source map from '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map' file: Error: ENOENT: no such file or directory, open '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map'
+
+[eslint] 
+src/components/SyncedView.jsx
+  Line 16:9:  'handleCameraUpdate' is assigned a value but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in ./node_modules/@mediapipe/tasks-vision/vision_bundle.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map' file: Error: ENOENT: no such file or directory, open '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map'
+
+WARNING in [eslint] 
+src/components/SyncedView.jsx
+  Line 16:9:  'handleCameraUpdate' is assigned a value but never used  no-unused-vars
+
+webpack compiled with 2 warnings
+Compiling...
+Compiled with warnings.
+
+Failed to parse source map from '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map' file: Error: ENOENT: no such file or directory, open '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map'
+
+[eslint] 
+src/components/ModelViewer.jsx
+  Line 2:53:  'Line' is defined but never used  no-unused-vars
+
+src/components/SyncedView.jsx
+  Line 16:9:  'handleCameraUpdate' is assigned a value but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in ./node_modules/@mediapipe/tasks-vision/vision_bundle.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map' file: Error: ENOENT: no such file or directory, open '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map'
+
+WARNING in [eslint] 
+src/components/ModelViewer.jsx
+  Line 2:53:  'Line' is defined but never used  no-unused-vars
+
+src/components/SyncedView.jsx
+  Line 16:9:  'handleCameraUpdate' is assigned a value but never used  no-unused-vars
+
+webpack compiled with 2 warnings
+Compiling...
+Compiled with warnings.
+
+Failed to parse source map from '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map' file: Error: ENOENT: no such file or directory, open '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map'
+
+[eslint] 
+src/components/SyncedView.jsx
+  Line 16:9:  'handleCameraUpdate' is assigned a value but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in ./node_modules/@mediapipe/tasks-vision/vision_bundle.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map' file: Error: ENOENT: no such file or directory, open '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map'
+
+WARNING in [eslint] 
+src/components/SyncedView.jsx
+  Line 16:9:  'handleCameraUpdate' is assigned a value but never used  no-unused-vars
+
+webpack compiled with 2 warnings
+Compiling...
+Compiled with warnings.
+
+Failed to parse source map from '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map' file: Error: ENOENT: no such file or directory, open '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map'
+
+[eslint] 
+src/components/SyncedView.jsx
+  Line 16:9:  'handleCameraUpdate' is assigned a value but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in ./node_modules/@mediapipe/tasks-vision/vision_bundle.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map' file: Error: ENOENT: no such file or directory, open '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map'
+
+WARNING in [eslint] 
+src/components/SyncedView.jsx
+  Line 16:9:  'handleCameraUpdate' is assigned a value but never used  no-unused-vars
+
+webpack compiled with 2 warnings
+Compiling...
+Compiled with warnings.
+
+Failed to parse source map from '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map' file: Error: ENOENT: no such file or directory, open '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map'
+
+[eslint] 
+src/components/SyncedView.jsx
+  Line 16:9:  'handleCameraUpdate' is assigned a value but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in ./node_modules/@mediapipe/tasks-vision/vision_bundle.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map' file: Error: ENOENT: no such file or directory, open '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map'
+
+WARNING in [eslint] 
+src/components/SyncedView.jsx
+  Line 16:9:  'handleCameraUpdate' is assigned a value but never used  no-unused-vars
+
+webpack compiled with 2 warnings
+Compiling...
+Compiled with warnings.
+
+Failed to parse source map from '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map' file: Error: ENOENT: no such file or directory, open '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map'
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in ./node_modules/@mediapipe/tasks-vision/vision_bundle.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map' file: Error: ENOENT: no such file or directory, open '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map'
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+Failed to parse source map from '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map' file: Error: ENOENT: no such file or directory, open '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map'
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in ./node_modules/@mediapipe/tasks-vision/vision_bundle.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map' file: Error: ENOENT: no such file or directory, open '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map'
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+Failed to parse source map from '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map' file: Error: ENOENT: no such file or directory, open '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map'
+
+[eslint] 
+src/App.js
+  Line 6:10:  'MedicalLayout' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in ./node_modules/@mediapipe/tasks-vision/vision_bundle.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map' file: Error: ENOENT: no such file or directory, open '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map'
+
+WARNING in [eslint] 
+src/App.js
+  Line 6:10:  'MedicalLayout' is defined but never used  no-unused-vars
+
+webpack compiled with 2 warnings
+Compiling...
+Failed to compile.
+
+[eslint] 
+src/App.js
+Syntax error: Expected corresponding JSX closing tag for <div>. (234:10) (234:10)
+ERROR in ./src/App.js
+Module build failed (from ./node_modules/babel-loader/lib/index.js):
+SyntaxError: /Users/aaryamanbajaj/Documents/live-3d/frontend/src/App.js: Expected corresponding JSX closing tag for <div>. (234:10)
+
+  232 |               </button>
+  233 |             </div>
+> 234 |           </>
+      |           ^
+  235 |         )}
+  236 |       </div>
+  237 |     </div>
+    at constructor (/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@babel/parser/lib/index.js:367:19)
+    at FlowParserMixin.raise (/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@babel/parser/lib/index.js:6624:19)
+    at FlowParserMixin.jsxParseElementAt (/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@babel/parser/lib/index.js:4751:14)
+    at FlowParserMixin.jsxParseElement (/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@babel/parser/lib/index.js:4778:17)
+    at FlowParserMixin.parseExprAtom (/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@babel/parser/lib/index.js:4788:19)
+    at FlowParserMixin.parseExprSubscripts (/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@babel/parser/lib/index.js:11145:23)
+    at FlowParserMixin.parseUpdate (/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@babel/parser/lib/index.js:11130:21)
+    at FlowParserMixin.parseMaybeUnary (/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@babel/parser/lib/index.js:11110:23)
+    at FlowParserMixin.parseMaybeUnaryOrPrivate (/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@babel/parser/lib/index.js:10963:61)
+    at FlowParserMixin.parseExprOps (/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@babel/parser/lib/index.js:10968:23)
+    at FlowParserMixin.parseMaybeConditional (/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@babel/parser/lib/index.js:10945:23)
+    at FlowParserMixin.parseMaybeAssign (/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@babel/parser/lib/index.js:10895:21)
+    at /Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@babel/parser/lib/index.js:3527:39
+    at FlowParserMixin.tryParse (/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@babel/parser/lib/index.js:6932:20)
+    at FlowParserMixin.parseMaybeAssign (/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@babel/parser/lib/index.js:3527:18)
+    at /Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@babel/parser/lib/index.js:10864:39
+    at FlowParserMixin.allowInAnd (/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@babel/parser/lib/index.js:12500:12)
+    at FlowParserMixin.parseMaybeAssignAllowIn (/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@babel/parser/lib/index.js:10864:17)
+    at FlowParserMixin.parseMaybeAssignAllowInOrVoidPattern (/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@babel/parser/lib/index.js:12567:17)
+    at FlowParserMixin.parseParenAndDistinguishExpression (/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@babel/parser/lib/index.js:11747:28)
+    at FlowParserMixin.parseParenAndDistinguishExpression (/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@babel/parser/lib/index.js:3620:18)
+    at FlowParserMixin.parseExprAtom (/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@babel/parser/lib/index.js:11395:23)
+    at FlowParserMixin.parseExprAtom (/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@babel/parser/lib/index.js:4793:20)
+    at FlowParserMixin.parseExprSubscripts (/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@babel/parser/lib/index.js:11145:23)
+    at FlowParserMixin.parseUpdate (/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@babel/parser/lib/index.js:11130:21)
+    at FlowParserMixin.parseMaybeUnary (/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@babel/parser/lib/index.js:11110:23)
+    at FlowParserMixin.parseMaybeUnaryOrPrivate (/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@babel/parser/lib/index.js:10963:61)
+    at FlowParserMixin.parseExprOps (/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@babel/parser/lib/index.js:10968:23)
+    at FlowParserMixin.parseMaybeConditional (/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@babel/parser/lib/index.js:10945:23)
+    at FlowParserMixin.parseMaybeAssign (/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@babel/parser/lib/index.js:10895:21)
+    at FlowParserMixin.parseMaybeAssign (/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@babel/parser/lib/index.js:3578:18)
+    at FlowParserMixin.parseExpressionBase (/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@babel/parser/lib/index.js:10848:23)
+    at /Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@babel/parser/lib/index.js:10844:39
+    at FlowParserMixin.allowInAnd (/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@babel/parser/lib/index.js:12495:16)
+    at FlowParserMixin.parseExpression (/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@babel/parser/lib/index.js:10844:17)
+    at FlowParserMixin.parseReturnStatement (/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@babel/parser/lib/index.js:13218:28)
+    at FlowParserMixin.parseStatementContent (/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@babel/parser/lib/index.js:12874:21)
+    at FlowParserMixin.parseStatementLike (/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@babel/parser/lib/index.js:12843:17)
+    at FlowParserMixin.parseStatementLike (/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@babel/parser/lib/index.js:2945:24)
+    at FlowParserMixin.parseStatementListItem (/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@babel/parser/lib/index.js:12823:17)
+    at FlowParserMixin.parseBlockOrModuleBlockBody (/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@babel/parser/lib/index.js:13392:61)
+    at FlowParserMixin.parseBlockBody (/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@babel/parser/lib/index.js:13385:10)
+    at FlowParserMixin.parseBlock (/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@babel/parser/lib/index.js:13373:10)
+    at FlowParserMixin.parseFunctionBody (/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@babel/parser/lib/index.js:12174:24)
+    at FlowParserMixin.parseFunctionBody (/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@babel/parser/lib/index.js:2922:11)
+    at FlowParserMixin.parseFunctionBodyAndFinish (/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@babel/parser/lib/index.js:12160:10)
+    at FlowParserMixin.parseFunctionBodyAndFinish (/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@babel/parser/lib/index.js:2930:18)
+    at /Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@babel/parser/lib/index.js:13521:12
+    at FlowParserMixin.withSmartMixTopicForbiddingContext (/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@babel/parser/lib/index.js:12477:14)
+    at FlowParserMixin.parseFunction (/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@babel/parser/lib/index.js:13520:10)
+
+ERROR in [eslint] 
+src/App.js
+  Line 234:10:  Parsing error: Expected corresponding JSX closing tag for <div>. (234:10)
+
+webpack compiled with 2 errors
+Compiling...
+Failed to compile.
+
+[eslint] 
+src/App.js
+Syntax error: Adjacent JSX elements must be wrapped in an enclosing tag. Did you want a JSX fragment <>...</>? (205:10) (205:10)
+ERROR in ./src/App.js
+Module build failed (from ./node_modules/babel-loader/lib/index.js):
+SyntaxError: /Users/aaryamanbajaj/Documents/live-3d/frontend/src/App.js: Adjacent JSX elements must be wrapped in an enclosing tag. Did you want a JSX fragment <>...</>? (205:10)
+
+  203 |               </button>
+  204 |             </div>
+> 205 |           </>
+      |           ^
+  206 |         )}
+  207 |       </div>
+  208 |     </div>
+    at constructor (/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@babel/parser/lib/index.js:367:19)
+    at FlowParserMixin.raise (/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@babel/parser/lib/index.js:6624:19)
+    at FlowParserMixin.jsxParseElementAt (/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@babel/parser/lib/index.js:4771:18)
+    at FlowParserMixin.jsxParseElement (/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@babel/parser/lib/index.js:4778:17)
+    at FlowParserMixin.parseExprAtom (/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@babel/parser/lib/index.js:4788:19)
+    at FlowParserMixin.parseExprSubscripts (/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@babel/parser/lib/index.js:11145:23)
+    at FlowParserMixin.parseUpdate (/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@babel/parser/lib/index.js:11130:21)
+    at FlowParserMixin.parseMaybeUnary (/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@babel/parser/lib/index.js:11110:23)
+    at FlowParserMixin.parseMaybeUnaryOrPrivate (/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@babel/parser/lib/index.js:10963:61)
+    at FlowParserMixin.parseExprOps (/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@babel/parser/lib/index.js:10968:23)
+    at FlowParserMixin.parseMaybeConditional (/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@babel/parser/lib/index.js:10945:23)
+    at FlowParserMixin.parseMaybeAssign (/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@babel/parser/lib/index.js:10895:21)
+    at /Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@babel/parser/lib/index.js:3527:39
+    at FlowParserMixin.tryParse (/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@babel/parser/lib/index.js:6932:20)
+    at FlowParserMixin.parseMaybeAssign (/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@babel/parser/lib/index.js:3527:18)
+    at FlowParserMixin.parseExpressionBase (/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@babel/parser/lib/index.js:10848:23)
+    at /Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@babel/parser/lib/index.js:10844:39
+    at FlowParserMixin.allowInAnd (/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@babel/parser/lib/index.js:12495:16)
+    at FlowParserMixin.parseExpression (/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@babel/parser/lib/index.js:10844:17)
+    at FlowParserMixin.parseStatementContent (/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@babel/parser/lib/index.js:12971:23)
+    at FlowParserMixin.parseStatementLike (/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@babel/parser/lib/index.js:12843:17)
+    at FlowParserMixin.parseStatementLike (/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@babel/parser/lib/index.js:2945:24)
+    at FlowParserMixin.parseModuleItem (/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@babel/parser/lib/index.js:12820:17)
+    at FlowParserMixin.parseBlockOrModuleBlockBody (/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@babel/parser/lib/index.js:13392:36)
+    at FlowParserMixin.parseBlockBody (/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@babel/parser/lib/index.js:13385:10)
+    at FlowParserMixin.parseProgram (/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@babel/parser/lib/index.js:12698:10)
+    at FlowParserMixin.parseTopLevel (/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@babel/parser/lib/index.js:12688:25)
+    at FlowParserMixin.parseTopLevel (/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@babel/parser/lib/index.js:3714:28)
+    at FlowParserMixin.parse (/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@babel/parser/lib/index.js:14568:25)
+    at parse (/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@babel/parser/lib/index.js:14602:38)
+    at parser (/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@babel/core/lib/parser/index.js:41:34)
+    at parser.next (<anonymous>)
+    at normalizeFile (/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@babel/core/lib/transformation/normalize-file.js:64:37)
+    at normalizeFile.next (<anonymous>)
+    at run (/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@babel/core/lib/transformation/index.js:22:50)
+    at run.next (<anonymous>)
+    at transform (/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@babel/core/lib/transform.js:22:33)
+    at transform.next (<anonymous>)
+    at step (/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/gensync/index.js:261:32)
+    at /Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/gensync/index.js:273:13
+    at async.call.result.err.err (/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/gensync/index.js:223:11)
+
+ERROR in [eslint] 
+src/App.js
+  Line 205:10:  Parsing error: Adjacent JSX elements must be wrapped in an enclosing tag. Did you want a JSX fragment <>...</>? (205:10)
+
+webpack compiled with 2 errors
+Compiling...
+Compiled with warnings.
+
+Failed to parse source map from '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map' file: Error: ENOENT: no such file or directory, open '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map'
+
+[eslint] 
+src/App.js
+  Line 84:9:  'resetApp' is assigned a value but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in ./node_modules/@mediapipe/tasks-vision/vision_bundle.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map' file: Error: ENOENT: no such file or directory, open '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map'
+
+WARNING in [eslint] 
+src/App.js
+  Line 84:9:  'resetApp' is assigned a value but never used  no-unused-vars
+
+webpack compiled with 2 warnings
+Compiling...
+Compiled with warnings.
+
+Failed to parse source map from '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map' file: Error: ENOENT: no such file or directory, open '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map'
+
+[eslint] 
+src/App.js
+  Line 84:9:  'resetApp' is assigned a value but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in ./node_modules/@mediapipe/tasks-vision/vision_bundle.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map' file: Error: ENOENT: no such file or directory, open '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map'
+
+WARNING in [eslint] 
+src/App.js
+  Line 84:9:  'resetApp' is assigned a value but never used  no-unused-vars
+
+webpack compiled with 2 warnings
+Compiling...
+Failed to compile.
+
+[eslint] 
+src/App.js
+  Line 170:16:  'AIAssistant' is not defined  react/jsx-no-undef
+
+Search for the keywords to learn more about each error.
+WARNING in ./node_modules/@mediapipe/tasks-vision/vision_bundle.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map' file: Error: ENOENT: no such file or directory, open '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map'
+
+WARNING in [eslint] 
+src/App.js
+  Line 4:10:  'DecisionSupport' is defined but never used    no-unused-vars
+  Line 6:10:  'StructurePanel' is defined but never used     no-unused-vars
+  Line 85:9:  'resetApp' is assigned a value but never used  no-unused-vars
+
+src/components/DecisionSupport.jsx
+  Line 7:10:  'selectedAction' is assigned a value but never used  no-unused-vars
+
+ERROR in [eslint] 
+src/App.js
+  Line 170:16:  'AIAssistant' is not defined  react/jsx-no-undef
+
+Search for the keywords to learn more about each error.
+
+webpack compiled with 1 error and 2 warnings
+Compiling...
+Compiled with warnings.
+
+Failed to parse source map from '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map' file: Error: ENOENT: no such file or directory, open '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map'
+
+[eslint] 
+src/App.js
+  Line 85:9:  'resetApp' is assigned a value but never used  no-unused-vars
+
+src/components/DecisionSupport.jsx
+  Line 7:10:  'selectedAction' is assigned a value but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in ./node_modules/@mediapipe/tasks-vision/vision_bundle.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map' file: Error: ENOENT: no such file or directory, open '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map'
+
+WARNING in [eslint] 
+src/App.js
+  Line 85:9:  'resetApp' is assigned a value but never used  no-unused-vars
+
+src/components/DecisionSupport.jsx
+  Line 7:10:  'selectedAction' is assigned a value but never used  no-unused-vars
+
+webpack compiled with 2 warnings
+Compiling...
+Failed to compile.
+
+[eslint] 
+src/components/IncisionPlanner.jsx
+  Line 32:24:  'annotations' is not defined  no-undef
+
+Search for the keywords to learn more about each error.
+WARNING in ./node_modules/@mediapipe/tasks-vision/vision_bundle.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map' file: Error: ENOENT: no such file or directory, open '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map'
+
+WARNING in [eslint] 
+src/App.js
+  Line 85:9:  'resetApp' is assigned a value but never used  no-unused-vars
+
+src/components/DecisionSupport.jsx
+  Line 7:10:  'selectedAction' is assigned a value but never used  no-unused-vars
+
+ERROR in [eslint] 
+src/components/IncisionPlanner.jsx
+  Line 32:24:  'annotations' is not defined  no-undef
+
+Search for the keywords to learn more about each error.
+
+webpack compiled with 1 error and 2 warnings
+Compiling...
+Compiled with warnings.
+
+Failed to parse source map from '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map' file: Error: ENOENT: no such file or directory, open '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map'
+
+[eslint] 
+src/App.js
+  Line 85:9:  'resetApp' is assigned a value but never used  no-unused-vars
+
+src/components/DecisionSupport.jsx
+  Line 7:10:  'selectedAction' is assigned a value but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in ./node_modules/@mediapipe/tasks-vision/vision_bundle.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map' file: Error: ENOENT: no such file or directory, open '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map'
+
+WARNING in [eslint] 
+src/App.js
+  Line 85:9:  'resetApp' is assigned a value but never used  no-unused-vars
+
+src/components/DecisionSupport.jsx
+  Line 7:10:  'selectedAction' is assigned a value but never used  no-unused-vars
+
+webpack compiled with 2 warnings
+Compiling...
+Compiled with warnings.
+
+Failed to parse source map from '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map' file: Error: ENOENT: no such file or directory, open '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map'
+
+[eslint] 
+src/App.js
+  Line 85:9:  'resetApp' is assigned a value but never used  no-unused-vars
+
+src/components/DecisionSupport.jsx
+  Line 7:10:  'selectedAction' is assigned a value but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in ./node_modules/@mediapipe/tasks-vision/vision_bundle.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map' file: Error: ENOENT: no such file or directory, open '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map'
+
+WARNING in [eslint] 
+src/App.js
+  Line 85:9:  'resetApp' is assigned a value but never used  no-unused-vars
+
+src/components/DecisionSupport.jsx
+  Line 7:10:  'selectedAction' is assigned a value but never used  no-unused-vars
+
+webpack compiled with 2 warnings
+Compiling...
+Compiled with warnings.
+
+Failed to parse source map from '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map' file: Error: ENOENT: no such file or directory, open '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map'
+
+[eslint] 
+src/App.js
+  Line 85:9:  'resetApp' is assigned a value but never used  no-unused-vars
+
+src/components/DecisionSupport.jsx
+  Line 7:10:  'selectedAction' is assigned a value but never used    no-unused-vars
+  Line 61:9:  'getFactorDetails' is assigned a value but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in ./node_modules/@mediapipe/tasks-vision/vision_bundle.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map' file: Error: ENOENT: no such file or directory, open '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map'
+
+WARNING in [eslint] 
+src/App.js
+  Line 85:9:  'resetApp' is assigned a value but never used  no-unused-vars
+
+src/components/DecisionSupport.jsx
+  Line 7:10:  'selectedAction' is assigned a value but never used    no-unused-vars
+  Line 61:9:  'getFactorDetails' is assigned a value but never used  no-unused-vars
+
+webpack compiled with 2 warnings
+Compiling...
+Compiled with warnings.
+
+Failed to parse source map from '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map' file: Error: ENOENT: no such file or directory, open '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map'
+
+[eslint] 
+src/App.js
+  Line 85:9:  'resetApp' is assigned a value but never used  no-unused-vars
+
+src/components/DecisionSupport.jsx
+  Line 7:10:  'selectedAction' is assigned a value but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in ./node_modules/@mediapipe/tasks-vision/vision_bundle.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map' file: Error: ENOENT: no such file or directory, open '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map'
+
+WARNING in [eslint] 
+src/App.js
+  Line 85:9:  'resetApp' is assigned a value but never used  no-unused-vars
+
+src/components/DecisionSupport.jsx
+  Line 7:10:  'selectedAction' is assigned a value but never used  no-unused-vars
+
+webpack compiled with 2 warnings
+Compiling...
+Compiled with warnings.
+
+Failed to parse source map from '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map' file: Error: ENOENT: no such file or directory, open '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map'
+
+[eslint] 
+src/App.js
+  Line 85:9:  'resetApp' is assigned a value but never used  no-unused-vars
+
+src/components/DecisionSupport.jsx
+  Line 7:10:  'selectedAction' is assigned a value but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in ./node_modules/@mediapipe/tasks-vision/vision_bundle.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map' file: Error: ENOENT: no such file or directory, open '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map'
+
+WARNING in [eslint] 
+src/App.js
+  Line 85:9:  'resetApp' is assigned a value but never used  no-unused-vars
+
+src/components/DecisionSupport.jsx
+  Line 7:10:  'selectedAction' is assigned a value but never used  no-unused-vars
+
+webpack compiled with 2 warnings
+Compiling...
+Compiled with warnings.
+
+Failed to parse source map from '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map' file: Error: ENOENT: no such file or directory, open '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map'
+
+[eslint] 
+src/App.js
+  Line 85:9:  'resetApp' is assigned a value but never used  no-unused-vars
+
+src/components/DecisionSupport.jsx
+  Line 7:10:  'selectedAction' is assigned a value but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in ./node_modules/@mediapipe/tasks-vision/vision_bundle.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map' file: Error: ENOENT: no such file or directory, open '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map'
+
+WARNING in [eslint] 
+src/App.js
+  Line 85:9:  'resetApp' is assigned a value but never used  no-unused-vars
+
+src/components/DecisionSupport.jsx
+  Line 7:10:  'selectedAction' is assigned a value but never used  no-unused-vars
+
+webpack compiled with 2 warnings
+Compiling...
+Compiled with warnings.
+
+Failed to parse source map from '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map' file: Error: ENOENT: no such file or directory, open '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map'
+
+[eslint] 
+src/App.js
+  Line 85:9:  'resetApp' is assigned a value but never used  no-unused-vars
+
+src/components/DecisionSupport.jsx
+  Line 7:10:  'selectedAction' is assigned a value but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in ./node_modules/@mediapipe/tasks-vision/vision_bundle.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map' file: Error: ENOENT: no such file or directory, open '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map'
+
+WARNING in [eslint] 
+src/App.js
+  Line 85:9:  'resetApp' is assigned a value but never used  no-unused-vars
+
+src/components/DecisionSupport.jsx
+  Line 7:10:  'selectedAction' is assigned a value but never used  no-unused-vars
+
+webpack compiled with 2 warnings
+Compiling...
+Compiled with warnings.
+
+Failed to parse source map from '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map' file: Error: ENOENT: no such file or directory, open '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map'
+
+[eslint] 
+src/App.js
+  Line 85:9:  'resetApp' is assigned a value but never used  no-unused-vars
+
+src/components/DecisionSupport.jsx
+  Line 7:10:  'selectedAction' is assigned a value but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in ./node_modules/@mediapipe/tasks-vision/vision_bundle.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map' file: Error: ENOENT: no such file or directory, open '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map'
+
+WARNING in [eslint] 
+src/App.js
+  Line 85:9:  'resetApp' is assigned a value but never used  no-unused-vars
+
+src/components/DecisionSupport.jsx
+  Line 7:10:  'selectedAction' is assigned a value but never used  no-unused-vars
+
+webpack compiled with 2 warnings
+Compiling...
+Compiled with warnings.
+
+Failed to parse source map from '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map' file: Error: ENOENT: no such file or directory, open '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map'
+
+[eslint] 
+src/App.js
+  Line 85:9:  'resetApp' is assigned a value but never used  no-unused-vars
+
+src/components/DecisionSupport.jsx
+  Line 7:10:  'selectedAction' is assigned a value but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in ./node_modules/@mediapipe/tasks-vision/vision_bundle.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map' file: Error: ENOENT: no such file or directory, open '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map'
+
+WARNING in [eslint] 
+src/App.js
+  Line 85:9:  'resetApp' is assigned a value but never used  no-unused-vars
+
+src/components/DecisionSupport.jsx
+  Line 7:10:  'selectedAction' is assigned a value but never used  no-unused-vars
+
+webpack compiled with 2 warnings
+Compiling...
+Compiled with warnings.
+
+Failed to parse source map from '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map' file: Error: ENOENT: no such file or directory, open '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map'
+
+[eslint] 
+src/App.js
+  Line 85:9:  'resetApp' is assigned a value but never used  no-unused-vars
+
+src/components/DecisionSupport.jsx
+  Line 7:10:  'selectedAction' is assigned a value but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in ./node_modules/@mediapipe/tasks-vision/vision_bundle.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map' file: Error: ENOENT: no such file or directory, open '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map'
+
+WARNING in [eslint] 
+src/App.js
+  Line 85:9:  'resetApp' is assigned a value but never used  no-unused-vars
+
+src/components/DecisionSupport.jsx
+  Line 7:10:  'selectedAction' is assigned a value but never used  no-unused-vars
+
+webpack compiled with 2 warnings
+Compiling...
+Compiled with warnings.
+
+Failed to parse source map from '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map' file: Error: ENOENT: no such file or directory, open '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map'
+
+[eslint] 
+src/App.js
+  Line 85:9:  'resetApp' is assigned a value but never used  no-unused-vars
+
+src/components/DecisionSupport.jsx
+  Line 7:10:  'selectedAction' is assigned a value but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in ./node_modules/@mediapipe/tasks-vision/vision_bundle.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map' file: Error: ENOENT: no such file or directory, open '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map'
+
+WARNING in [eslint] 
+src/App.js
+  Line 85:9:  'resetApp' is assigned a value but never used  no-unused-vars
+
+src/components/DecisionSupport.jsx
+  Line 7:10:  'selectedAction' is assigned a value but never used  no-unused-vars
+
+webpack compiled with 2 warnings
+Compiling...
+Compiled with warnings.
+
+Failed to parse source map from '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map' file: Error: ENOENT: no such file or directory, open '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map'
+
+[eslint] 
+src/App.js
+  Line 85:9:  'resetApp' is assigned a value but never used  no-unused-vars
+
+src/components/DecisionSupport.jsx
+  Line 7:10:  'selectedAction' is assigned a value but never used  no-unused-vars
+
+src/components/IncisionPlanner.jsx
+  Line 60:9:  'getSegmentStatus' is assigned a value but never used            no-unused-vars
+  Line 66:9:  'getClearanceFromConfidence' is assigned a value but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in ./node_modules/@mediapipe/tasks-vision/vision_bundle.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map' file: Error: ENOENT: no such file or directory, open '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map'
+
+WARNING in [eslint] 
+src/App.js
+  Line 85:9:  'resetApp' is assigned a value but never used  no-unused-vars
+
+src/components/DecisionSupport.jsx
+  Line 7:10:  'selectedAction' is assigned a value but never used  no-unused-vars
+
+src/components/IncisionPlanner.jsx
+  Line 60:9:  'getSegmentStatus' is assigned a value but never used            no-unused-vars
+  Line 66:9:  'getClearanceFromConfidence' is assigned a value but never used  no-unused-vars
+
+webpack compiled with 2 warnings
+Compiling...
+Compiled with warnings.
+
+Failed to parse source map from '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map' file: Error: ENOENT: no such file or directory, open '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map'
+
+[eslint] 
+src/App.js
+  Line 85:9:  'resetApp' is assigned a value but never used  no-unused-vars
+
+src/components/DecisionSupport.jsx
+  Line 7:10:  'selectedAction' is assigned a value but never used  no-unused-vars
+
+src/components/IncisionPlanner.jsx
+  Line 60:9:  'getSegmentStatus' is assigned a value but never used            no-unused-vars
+  Line 66:9:  'getClearanceFromConfidence' is assigned a value but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in ./node_modules/@mediapipe/tasks-vision/vision_bundle.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map' file: Error: ENOENT: no such file or directory, open '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map'
+
+WARNING in [eslint] 
+src/App.js
+  Line 85:9:  'resetApp' is assigned a value but never used  no-unused-vars
+
+src/components/DecisionSupport.jsx
+  Line 7:10:  'selectedAction' is assigned a value but never used  no-unused-vars
+
+src/components/IncisionPlanner.jsx
+  Line 60:9:  'getSegmentStatus' is assigned a value but never used            no-unused-vars
+  Line 66:9:  'getClearanceFromConfidence' is assigned a value but never used  no-unused-vars
+
+webpack compiled with 2 warnings
+Compiling...
+Compiled with warnings.
+
+Failed to parse source map from '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map' file: Error: ENOENT: no such file or directory, open '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map'
+
+[eslint] 
+src/App.js
+  Line 85:9:  'resetApp' is assigned a value but never used  no-unused-vars
+
+src/components/DecisionSupport.jsx
+  Line 7:10:  'selectedAction' is assigned a value but never used  no-unused-vars
+
+src/components/IncisionPlanner.jsx
+  Line 54:9:  'getSegmentColor' is assigned a value but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in ./node_modules/@mediapipe/tasks-vision/vision_bundle.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map' file: Error: ENOENT: no such file or directory, open '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map'
+
+WARNING in [eslint] 
+src/App.js
+  Line 85:9:  'resetApp' is assigned a value but never used  no-unused-vars
+
+src/components/DecisionSupport.jsx
+  Line 7:10:  'selectedAction' is assigned a value but never used  no-unused-vars
+
+src/components/IncisionPlanner.jsx
+  Line 54:9:  'getSegmentColor' is assigned a value but never used  no-unused-vars
+
+webpack compiled with 2 warnings
+Compiling...
+Compiled with warnings.
+
+Failed to parse source map from '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map' file: Error: ENOENT: no such file or directory, open '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map'
+
+[eslint] 
+src/App.js
+  Line 85:9:  'resetApp' is assigned a value but never used  no-unused-vars
+
+src/components/DecisionSupport.jsx
+  Line 7:10:  'selectedAction' is assigned a value but never used  no-unused-vars
+
+src/components/IncisionPlanner.jsx
+  Line 54:9:  'getSegmentColor' is assigned a value but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in ./node_modules/@mediapipe/tasks-vision/vision_bundle.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map' file: Error: ENOENT: no such file or directory, open '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map'
+
+WARNING in [eslint] 
+src/App.js
+  Line 85:9:  'resetApp' is assigned a value but never used  no-unused-vars
+
+src/components/DecisionSupport.jsx
+  Line 7:10:  'selectedAction' is assigned a value but never used  no-unused-vars
+
+src/components/IncisionPlanner.jsx
+  Line 54:9:  'getSegmentColor' is assigned a value but never used  no-unused-vars
+
+webpack compiled with 2 warnings
+Compiling...
+Compiled with warnings.
+
+Failed to parse source map from '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map' file: Error: ENOENT: no such file or directory, open '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map'
+
+[eslint] 
+src/App.js
+  Line 85:9:  'resetApp' is assigned a value but never used  no-unused-vars
+
+src/components/DecisionSupport.jsx
+  Line 7:10:  'selectedAction' is assigned a value but never used  no-unused-vars
+
+src/components/IncisionPlanner.jsx
+  Line 54:9:  'getSegmentColor' is assigned a value but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in ./node_modules/@mediapipe/tasks-vision/vision_bundle.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map' file: Error: ENOENT: no such file or directory, open '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map'
+
+WARNING in [eslint] 
+src/App.js
+  Line 85:9:  'resetApp' is assigned a value but never used  no-unused-vars
+
+src/components/DecisionSupport.jsx
+  Line 7:10:  'selectedAction' is assigned a value but never used  no-unused-vars
+
+src/components/IncisionPlanner.jsx
+  Line 54:9:  'getSegmentColor' is assigned a value but never used  no-unused-vars
+
+webpack compiled with 2 warnings
+Compiling...
+Compiled with warnings.
+
+Failed to parse source map from '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map' file: Error: ENOENT: no such file or directory, open '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map'
+
+[eslint] 
+src/App.js
+  Line 85:9:  'resetApp' is assigned a value but never used  no-unused-vars
+
+src/components/DecisionSupport.jsx
+  Line 7:10:  'selectedAction' is assigned a value but never used  no-unused-vars
+
+src/components/IncisionPlanner.jsx
+  Line 54:9:  'getSegmentColor' is assigned a value but never used  no-unused-vars
+
+src/components/VideoCapture.jsx
+  Line 14:10:  'targetDistance' is assigned a value but never used        no-unused-vars
+  Line 14:26:  'setTargetDistance' is assigned a value but never used     no-unused-vars
+  Line 15:10:  'clearanceDistance' is assigned a value but never used     no-unused-vars
+  Line 15:29:  'setClearanceDistance' is assigned a value but never used  no-unused-vars
+  Line 16:10:  'trackingStatus' is assigned a value but never used        no-unused-vars
+  Line 16:26:  'setTrackingStatus' is assigned a value but never used     no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in ./node_modules/@mediapipe/tasks-vision/vision_bundle.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map' file: Error: ENOENT: no such file or directory, open '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map'
+
+WARNING in [eslint] 
+src/App.js
+  Line 85:9:  'resetApp' is assigned a value but never used  no-unused-vars
+
+src/components/DecisionSupport.jsx
+  Line 7:10:  'selectedAction' is assigned a value but never used  no-unused-vars
+
+src/components/IncisionPlanner.jsx
+  Line 54:9:  'getSegmentColor' is assigned a value but never used  no-unused-vars
+
+src/components/VideoCapture.jsx
+  Line 14:10:  'targetDistance' is assigned a value but never used        no-unused-vars
+  Line 14:26:  'setTargetDistance' is assigned a value but never used     no-unused-vars
+  Line 15:10:  'clearanceDistance' is assigned a value but never used     no-unused-vars
+  Line 15:29:  'setClearanceDistance' is assigned a value but never used  no-unused-vars
+  Line 16:10:  'trackingStatus' is assigned a value but never used        no-unused-vars
+  Line 16:26:  'setTrackingStatus' is assigned a value but never used     no-unused-vars
+
+webpack compiled with 2 warnings
+Compiling...
+Compiled with warnings.
+
+Failed to parse source map from '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map' file: Error: ENOENT: no such file or directory, open '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map'
+
+[eslint] 
+src/App.js
+  Line 85:9:  'resetApp' is assigned a value but never used  no-unused-vars
+
+src/components/DecisionSupport.jsx
+  Line 7:10:  'selectedAction' is assigned a value but never used  no-unused-vars
+
+src/components/IncisionPlanner.jsx
+  Line 54:9:  'getSegmentColor' is assigned a value but never used  no-unused-vars
+
+src/components/VideoCapture.jsx
+  Line 14:10:  'targetDistance' is assigned a value but never used     no-unused-vars
+  Line 15:10:  'clearanceDistance' is assigned a value but never used  no-unused-vars
+  Line 16:10:  'trackingStatus' is assigned a value but never used     no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in ./node_modules/@mediapipe/tasks-vision/vision_bundle.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map' file: Error: ENOENT: no such file or directory, open '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map'
+
+WARNING in [eslint] 
+src/App.js
+  Line 85:9:  'resetApp' is assigned a value but never used  no-unused-vars
+
+src/components/DecisionSupport.jsx
+  Line 7:10:  'selectedAction' is assigned a value but never used  no-unused-vars
+
+src/components/IncisionPlanner.jsx
+  Line 54:9:  'getSegmentColor' is assigned a value but never used  no-unused-vars
+
+src/components/VideoCapture.jsx
+  Line 14:10:  'targetDistance' is assigned a value but never used     no-unused-vars
+  Line 15:10:  'clearanceDistance' is assigned a value but never used  no-unused-vars
+  Line 16:10:  'trackingStatus' is assigned a value but never used     no-unused-vars
+
+webpack compiled with 2 warnings
+Compiling...
+Compiled with warnings.
+
+Failed to parse source map from '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map' file: Error: ENOENT: no such file or directory, open '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map'
+
+[eslint] 
+src/App.js
+  Line 85:9:  'resetApp' is assigned a value but never used  no-unused-vars
+
+src/components/DecisionSupport.jsx
+  Line 7:10:  'selectedAction' is assigned a value but never used  no-unused-vars
+
+src/components/IncisionPlanner.jsx
+  Line 54:9:  'getSegmentColor' is assigned a value but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in ./node_modules/@mediapipe/tasks-vision/vision_bundle.mjs
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map' file: Error: ENOENT: no such file or directory, open '/Users/aaryamanbajaj/Documents/live-3d/frontend/node_modules/@mediapipe/tasks-vision/vision_bundle_mjs.js.map'
+
+WARNING in [eslint] 
+src/App.js
+  Line 85:9:  'resetApp' is assigned a value but never used  no-unused-vars
+
+src/components/DecisionSupport.jsx
+  Line 7:10:  'selectedAction' is assigned a value but never used  no-unused-vars
+
+src/components/IncisionPlanner.jsx
+  Line 54:9:  'getSegmentColor' is assigned a value but never used  no-unused-vars
+
+webpack compiled with 2 warnings

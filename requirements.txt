@@ -1,0 +1,11 @@
+dedalus-labs
+fastapi
+uvicorn
+python-multipart
+websockets
+python-dotenv
+opencv-python
+numpy
+aiohttp
+pytest
+pytest-asyncio

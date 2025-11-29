@@ -1,0 +1,33 @@
+.model-viewer-container {
+  width: 100%;
+  height: 600px;
+  background: #1a1a1a;
+  border-radius: 8px;
+  position: relative;
+  overflow: hidden;
+}
+
+.model-viewer-placeholder {
+  width: 100%;
+  height: 600px;
+  background: #1a1a1a;
+  border-radius: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #666;
+  font-size: 18px;
+}
+
+.annotation-labels {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+}
+
+canvas {
+  outline: none;
+}

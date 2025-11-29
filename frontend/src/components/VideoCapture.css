@@ -1,0 +1,342 @@
+/* VideoCapture.css - Real-time Guidance HUD */
+
+.video-container {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  background: #000;
+  overflow: hidden;
+}
+
+.video-feed {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  display: block;
+}
+
+.video-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+}
+
+/* HUD Overlay Container */
+.hud-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  pointer-events: none;
+  font-family: 'IBM Plex Mono', monospace;
+}
+
+/* Top HUD Bar */
+.hud-top-bar {
+  position: absolute;
+  top: 15px;
+  left: 15px;
+  right: 15px;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 15px;
+}
+
+/* Tracking Status */
+.hud-tracking-status {
+  background: rgba(10, 14, 20, 0.92);
+  border: 2px solid #2E7D32;
+  border-radius: 6px;
+  padding: 10px 16px;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  animation: fadeIn 0.3s ease;
+}
+
+.hud-tracking-status.searching {
+  border-color: #F57C00;
+}
+
+.hud-tracking-status.lost {
+  border-color: #C62828;
+}
+
+.hud-tracking-indicator {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background: #2E7D32;
+  animation: pulse 2s infinite;
+}
+
+.hud-tracking-indicator.searching {
+  background: #F57C00;
+  animation: blink 1s infinite;
+}
+
+.hud-tracking-indicator.lost {
+  background: #C62828;
+  animation: none;
+}
+
+.hud-tracking-text {
+  color: #E8EAED;
+  font-size: 13px;
+  font-weight: 600;
+  letter-spacing: 0.5px;
+}
+
+/* Session Info */
+.hud-session-info {
+  background: rgba(10, 14, 20, 0.92);
+  border: 2px solid #2E7D32;
+  border-radius: 6px;
+  padding: 10px 16px;
+  color: #E8EAED;
+  font-size: 12px;
+  text-align: right;
+}
+
+.hud-session-id {
+  font-weight: 700;
+  color: #2E7D32;
+}
+
+/* Center HUD - Distance Measurements */
+.hud-center {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  align-items: center;
+}
+
+.hud-target-distance {
+  background: rgba(10, 14, 20, 0.95);
+  border: 3px solid #2E7D32;
+  border-radius: 8px;
+  padding: 12px 24px;
+  text-align: center;
+  animation: fadeIn 0.4s ease;
+}
+
+.hud-target-label {
+  color: #A0A0A0;
+  font-size: 11px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  margin-bottom: 4px;
+}
+
+.hud-target-value {
+  color: #2E7D32;
+  font-size: 28px;
+  font-weight: 700;
+  line-height: 1;
+}
+
+.hud-target-unit {
+  font-size: 16px;
+  margin-left: 4px;
+}
+
+/* Clearance Display */
+.hud-clearance {
+  background: rgba(10, 14, 20, 0.95);
+  border: 3px solid;
+  border-radius: 8px;
+  padding: 10px 20px;
+  text-align: center;
+  animation: fadeIn 0.4s ease 0.1s backwards;
+}
+
+.hud-clearance.safe {
+  border-color: #2E7D32;
+}
+
+.hud-clearance.caution {
+  border-color: #F57C00;
+}
+
+.hud-clearance.danger {
+  border-color: #C62828;
+  animation: pulse 2s infinite;
+}
+
+.hud-clearance-label {
+  color: #A0A0A0;
+  font-size: 10px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  margin-bottom: 4px;
+}
+
+.hud-clearance-value {
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 1;
+}
+
+.hud-clearance-value.safe {
+  color: #2E7D32;
+}
+
+.hud-clearance-value.caution {
+  color: #F57C00;
+}
+
+.hud-clearance-value.danger {
+  color: #C62828;
+}
+
+/* Bottom HUD Bar */
+.hud-bottom-bar {
+  position: absolute;
+  bottom: 15px;
+  left: 15px;
+  right: 15px;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+  gap: 15px;
+}
+
+/* Detection Status */
+.hud-detection-status {
+  background: rgba(10, 14, 20, 0.92);
+  border: 2px solid #2E7D32;
+  border-radius: 6px;
+  padding: 10px 16px;
+  color: #E8EAED;
+  font-size: 13px;
+  font-weight: 600;
+}
+
+/* Marker Count */
+.hud-marker-count {
+  background: rgba(10, 14, 20, 0.92);
+  border: 2px solid #2E7D32;
+  border-radius: 6px;
+  padding: 10px 16px;
+  color: #E8EAED;
+  font-size: 13px;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.hud-marker-icon {
+  color: #2E7D32;
+  font-size: 16px;
+}
+
+/* Crosshair (optional) */
+.hud-crosshair {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 40px;
+  height: 40px;
+  pointer-events: none;
+}
+
+.hud-crosshair::before,
+.hud-crosshair::after {
+  content: '';
+  position: absolute;
+  background: rgba(46, 125, 50, 0.6);
+}
+
+.hud-crosshair::before {
+  top: 50%;
+  left: 0;
+  width: 100%;
+  height: 2px;
+  transform: translateY(-50%);
+}
+
+.hud-crosshair::after {
+  left: 50%;
+  top: 0;
+  width: 2px;
+  height: 100%;
+  transform: translateX(-50%);
+}
+
+.hud-crosshair-center {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 6px;
+  height: 6px;
+  border: 2px solid #2E7D32;
+  border-radius: 50%;
+  background: rgba(46, 125, 50, 0.3);
+}
+
+/* Animations */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(-10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes pulse {
+  0%, 100% {
+    opacity: 1;
+    box-shadow: 0 0 0 0 rgba(46, 125, 50, 0.7);
+  }
+  50% {
+    opacity: 0.85;
+    box-shadow: 0 0 20px 10px rgba(46, 125, 50, 0);
+  }
+}
+
+@keyframes blink {
+  0%, 49% {
+    opacity: 1;
+  }
+  50%, 100% {
+    opacity: 0.3;
+  }
+}
+
+/* Warning Banner */
+.hud-warning-banner {
+  position: absolute;
+  top: 80px;
+  left: 50%;
+  transform: translateX(-50%);
+  background: rgba(198, 40, 40, 0.95);
+  border: 3px solid #C62828;
+  border-radius: 8px;
+  padding: 12px 24px;
+  color: white;
+  font-size: 14px;
+  font-weight: 700;
+  text-align: center;
+  animation: pulse 2s infinite;
+  max-width: 80%;
+}
+
+.hud-warning-icon {
+  font-size: 18px;
+  margin-right: 8px;
+}

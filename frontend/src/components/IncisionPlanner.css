@@ -1,0 +1,342 @@
+/* IncisionPlanner.css - Path Planning Medical Interface */
+
+.path-planner-container {
+  background: #1A1F2E;
+  padding: 20px;
+  border-radius: 8px;
+  margin-top: 20px;
+}
+
+.path-planner-title {
+  margin: 0 0 15px 0;
+  color: #2E7D32;
+  font-size: 13px;
+  font-weight: 700;
+  letter-spacing: 0.8px;
+  text-transform: uppercase;
+  font-family: 'IBM Plex Sans', sans-serif;
+}
+
+.path-controls {
+  margin-bottom: 15px;
+  display: flex;
+  gap: 10px;
+}
+
+.path-instruction {
+  padding: 10px;
+  background: #0A0E14;
+  border-radius: 4px;
+  margin-bottom: 15px;
+  color: #A0A0A0;
+  font-size: 13px;
+  border-left: 3px solid #2E7D32;
+}
+
+.path-loading {
+  padding: 20px;
+  text-align: center;
+  color: #E8EAED;
+}
+
+.path-loading-detail {
+  font-size: 12px;
+  color: #A0A0A0;
+  margin-top: 5px;
+}
+
+/* Path Analysis Results */
+.path-analysis {
+  background: #0A0E14;
+  padding: 15px;
+  border-radius: 4px;
+}
+
+.path-analysis.safe {
+  border-left: 4px solid #2E7D32;
+}
+
+.path-analysis.caution {
+  border-left: 4px solid #F57C00;
+}
+
+.path-analysis.danger {
+  border-left: 4px solid #C62828;
+}
+
+/* Overall Assessment */
+.path-assessment {
+  padding: 12px;
+  margin-bottom: 15px;
+  border-radius: 6px;
+}
+
+.path-assessment.safe {
+  background: #2E7D3222;
+  border: 2px solid #2E7D32;
+}
+
+.path-assessment.caution {
+  background: #F57C0022;
+  border: 2px solid #F57C00;
+}
+
+.path-assessment.danger {
+  background: #C6282822;
+  border: 2px solid #C62828;
+}
+
+.path-assessment-title {
+  font-weight: bold;
+  font-size: 15px;
+  font-family: 'IBM Plex Sans', sans-serif;
+}
+
+.path-assessment-title.safe { color: #2E7D32; }
+.path-assessment-title.caution { color: #F57C00; }
+.path-assessment-title.danger { color: #C62828; }
+
+.path-confidence {
+  color: #E8EAED;
+  font-size: 13px;
+  margin-top: 5px;
+  font-family: 'IBM Plex Mono', monospace;
+}
+
+/* Path Metrics Grid */
+.path-metrics {
+  margin-bottom: 15px;
+}
+
+.path-metrics-title {
+  color: #E8EAED;
+  display: block;
+  margin-bottom: 8px;
+  font-weight: 600;
+  font-size: 13px;
+}
+
+.path-metrics-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 10px;
+}
+
+.path-metric-item {
+  padding: 10px;
+  background: #1A1F2E;
+  border-radius: 4px;
+  border-left: 3px solid #2E7D32;
+}
+
+.path-metric-label {
+  color: #A0A0A0;
+  font-size: 11px;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  margin-bottom: 4px;
+}
+
+.path-metric-value {
+  color: #E8EAED;
+  font-size: 16px;
+  font-weight: 700;
+  font-family: 'IBM Plex Mono', monospace;
+}
+
+.path-metric-unit {
+  font-size: 12px;
+  color: #A0A0A0;
+  margin-left: 2px;
+}
+
+/* Segment Breakdown */
+.path-segments {
+  margin-bottom: 15px;
+}
+
+.path-segments-title {
+  color: #E8EAED;
+  display: block;
+  margin-bottom: 8px;
+  font-weight: 600;
+  font-size: 13px;
+}
+
+.path-segment {
+  padding: 12px;
+  margin-bottom: 8px;
+  background: #1A1F2E;
+  border-radius: 4px;
+  transition: transform 0.2s;
+}
+
+.path-segment:hover {
+  transform: translateX(4px);
+}
+
+.path-segment.safe {
+  border-left: 4px solid #2E7D32;
+}
+
+.path-segment.caution {
+  border-left: 4px solid #F57C00;
+}
+
+.path-segment.danger {
+  border-left: 4px solid #C62828;
+}
+
+.path-segment-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 8px;
+}
+
+.path-segment-label {
+  color: #E8EAED;
+  font-weight: bold;
+  font-size: 13px;
+  font-family: 'IBM Plex Mono', monospace;
+}
+
+.path-segment-confidence {
+  font-weight: bold;
+  font-size: 13px;
+  font-family: 'IBM Plex Mono', monospace;
+}
+
+.path-segment-confidence.safe { color: #2E7D32; }
+.path-segment-confidence.caution { color: #F57C00; }
+.path-segment-confidence.danger { color: #C62828; }
+
+.path-segment-details {
+  color: #A0A0A0;
+  font-size: 12px;
+  margin-bottom: 6px;
+}
+
+.path-segment-clearance {
+  display: inline-block;
+  margin-left: 8px;
+  padding: 2px 8px;
+  border-radius: 3px;
+  font-family: 'IBM Plex Mono', monospace;
+  font-weight: 600;
+  font-size: 11px;
+}
+
+.path-segment-clearance.safe {
+  background: #2E7D3233;
+  color: #2E7D32;
+}
+
+.path-segment-clearance.caution {
+  background: #F57C0033;
+  color: #F57C00;
+}
+
+.path-segment-clearance.danger {
+  background: #C6282833;
+  color: #C62828;
+}
+
+.path-segment-risks {
+  margin-top: 8px;
+  padding: 8px;
+  background: #C6282822;
+  border-radius: 3px;
+  border-left: 3px solid #C62828;
+}
+
+.path-segment-risk {
+  color: #F57C00;
+  font-size: 11px;
+  margin-bottom: 3px;
+}
+
+.path-segment-risk:last-child {
+  margin-bottom: 0;
+}
+
+/* Alternative Paths */
+.alternative-paths {
+  padding: 12px;
+  background: #2E7D3222;
+  border-radius: 6px;
+  border: 2px solid #2E7D32;
+  margin-bottom: 15px;
+}
+
+.alternative-paths-title {
+  color: #2E7D32;
+  font-weight: bold;
+  font-size: 14px;
+  margin-bottom: 8px;
+}
+
+.alternative-paths-description {
+  color: #A0A0A0;
+  font-size: 12px;
+  margin-bottom: 10px;
+}
+
+.alternative-paths-button {
+  width: 100%;
+  padding: 10px 20px;
+  background: #2E7D32;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 14px;
+  font-weight: bold;
+  transition: background 0.2s;
+}
+
+.alternative-paths-button:hover {
+  background: #1B5E20;
+}
+
+/* Recommendations */
+.path-recommendations {
+  margin-bottom: 10px;
+}
+
+.path-recommendations-title {
+  color: #E8EAED;
+  display: block;
+  margin-bottom: 8px;
+  font-weight: 600;
+  font-size: 13px;
+}
+
+.path-recommendation-item {
+  color: #E8EAED;
+  padding: 10px 12px;
+  background: #1A1F2E;
+  border-radius: 4px;
+  margin-bottom: 6px;
+  font-size: 13px;
+  border-left: 3px solid #2E7D32;
+}
+
+/* Specialist Request */
+.specialist-request-button {
+  padding: 12px 20px;
+  background: #C62828;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 14px;
+  font-weight: bold;
+  width: 100%;
+  margin-top: 10px;
+  transition: background 0.2s;
+}
+
+.specialist-request-button:hover {
+  background: #B71C1C;
+}
